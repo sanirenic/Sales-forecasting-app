@@ -1,0 +1,2185 @@
+Date,Product,Quantity_Sold,Region
+2024-04-01,Maggi,26,Delhi
+2024-04-01,Sugar,39,Delhi
+2024-04-01,Ghee,48,Delhi
+2024-04-01,Dry Fruits,34,Delhi
+2024-04-01,Rice,30,Delhi
+2024-04-01,Tea,27,Delhi
+2024-04-01,Soap,48,Delhi
+2024-04-01,Biscuits,40,Delhi
+2024-04-01,Maggi,26,Chennai
+2024-04-01,Sugar,45,Chennai
+2024-04-01,Ghee,38,Chennai
+2024-04-01,Dry Fruits,42,Chennai
+2024-04-01,Rice,30,Chennai
+2024-04-01,Tea,30,Chennai
+2024-04-01,Soap,43,Chennai
+2024-04-01,Biscuits,40,Chennai
+2024-04-01,Maggi,23,Kolkata
+2024-04-01,Sugar,27,Kolkata
+2024-04-01,Ghee,43,Kolkata
+2024-04-01,Dry Fruits,22,Kolkata
+2024-04-01,Rice,41,Kolkata
+2024-04-01,Tea,40,Kolkata
+2024-04-01,Soap,21,Kolkata
+2024-04-01,Biscuits,43,Kolkata
+2024-04-02,Maggi,31,Delhi
+2024-04-02,Sugar,49,Delhi
+2024-04-02,Ghee,25,Delhi
+2024-04-02,Dry Fruits,21,Delhi
+2024-04-02,Rice,47,Delhi
+2024-04-02,Tea,40,Delhi
+2024-04-02,Soap,20,Delhi
+2024-04-02,Biscuits,31,Delhi
+2024-04-02,Maggi,45,Chennai
+2024-04-02,Sugar,41,Chennai
+2024-04-02,Ghee,48,Chennai
+2024-04-02,Dry Fruits,31,Chennai
+2024-04-02,Rice,44,Chennai
+2024-04-02,Tea,36,Chennai
+2024-04-02,Soap,46,Chennai
+2024-04-02,Biscuits,46,Chennai
+2024-04-02,Maggi,29,Kolkata
+2024-04-02,Sugar,47,Kolkata
+2024-04-02,Ghee,47,Kolkata
+2024-04-02,Dry Fruits,35,Kolkata
+2024-04-02,Rice,34,Kolkata
+2024-04-02,Tea,49,Kolkata
+2024-04-02,Soap,49,Kolkata
+2024-04-02,Biscuits,34,Kolkata
+2024-04-03,Maggi,49,Delhi
+2024-04-03,Sugar,38,Delhi
+2024-04-03,Ghee,31,Delhi
+2024-04-03,Dry Fruits,42,Delhi
+2024-04-03,Rice,39,Delhi
+2024-04-03,Tea,44,Delhi
+2024-04-03,Soap,22,Delhi
+2024-04-03,Biscuits,24,Delhi
+2024-04-03,Maggi,38,Chennai
+2024-04-03,Sugar,26,Chennai
+2024-04-03,Ghee,40,Chennai
+2024-04-03,Dry Fruits,28,Chennai
+2024-04-03,Rice,26,Chennai
+2024-04-03,Tea,37,Chennai
+2024-04-03,Soap,23,Chennai
+2024-04-03,Biscuits,44,Chennai
+2024-04-03,Maggi,47,Kolkata
+2024-04-03,Sugar,33,Kolkata
+2024-04-03,Ghee,37,Kolkata
+2024-04-03,Dry Fruits,45,Kolkata
+2024-04-03,Rice,28,Kolkata
+2024-04-03,Tea,45,Kolkata
+2024-04-03,Soap,40,Kolkata
+2024-04-03,Biscuits,21,Kolkata
+2024-04-04,Maggi,39,Delhi
+2024-04-04,Sugar,47,Delhi
+2024-04-04,Ghee,34,Delhi
+2024-04-04,Dry Fruits,47,Delhi
+2024-04-04,Rice,26,Delhi
+2024-04-04,Tea,31,Delhi
+2024-04-04,Soap,48,Delhi
+2024-04-04,Biscuits,27,Delhi
+2024-04-04,Maggi,34,Chennai
+2024-04-04,Sugar,22,Chennai
+2024-04-04,Ghee,33,Chennai
+2024-04-04,Dry Fruits,36,Chennai
+2024-04-04,Rice,23,Chennai
+2024-04-04,Tea,37,Chennai
+2024-04-04,Soap,27,Chennai
+2024-04-04,Biscuits,23,Chennai
+2024-04-04,Maggi,21,Kolkata
+2024-04-04,Sugar,49,Kolkata
+2024-04-04,Ghee,25,Kolkata
+2024-04-04,Dry Fruits,41,Kolkata
+2024-04-04,Rice,29,Kolkata
+2024-04-04,Tea,23,Kolkata
+2024-04-04,Soap,41,Kolkata
+2024-04-04,Biscuits,48,Kolkata
+2024-04-05,Maggi,37,Delhi
+2024-04-05,Sugar,45,Delhi
+2024-04-05,Ghee,31,Delhi
+2024-04-05,Dry Fruits,21,Delhi
+2024-04-05,Rice,29,Delhi
+2024-04-05,Tea,49,Delhi
+2024-04-05,Soap,23,Delhi
+2024-04-05,Biscuits,33,Delhi
+2024-04-05,Maggi,35,Chennai
+2024-04-05,Sugar,34,Chennai
+2024-04-05,Ghee,27,Chennai
+2024-04-05,Dry Fruits,33,Chennai
+2024-04-05,Rice,42,Chennai
+2024-04-05,Tea,47,Chennai
+2024-04-05,Soap,44,Chennai
+2024-04-05,Biscuits,49,Chennai
+2024-04-05,Maggi,27,Kolkata
+2024-04-05,Sugar,40,Kolkata
+2024-04-05,Ghee,35,Kolkata
+2024-04-05,Dry Fruits,32,Kolkata
+2024-04-05,Rice,37,Kolkata
+2024-04-05,Tea,34,Kolkata
+2024-04-05,Soap,40,Kolkata
+2024-04-05,Biscuits,43,Kolkata
+2024-04-06,Maggi,63,Delhi
+2024-04-06,Sugar,47,Delhi
+2024-04-06,Ghee,47,Delhi
+2024-04-06,Dry Fruits,47,Delhi
+2024-04-06,Rice,32,Delhi
+2024-04-06,Tea,50,Delhi
+2024-04-06,Soap,34,Delhi
+2024-04-06,Biscuits,42,Delhi
+2024-04-06,Maggi,60,Chennai
+2024-04-06,Sugar,28,Chennai
+2024-04-06,Ghee,43,Chennai
+2024-04-06,Dry Fruits,20,Chennai
+2024-04-06,Rice,31,Chennai
+2024-04-06,Tea,44,Chennai
+2024-04-06,Soap,30,Chennai
+2024-04-06,Biscuits,48,Chennai
+2024-04-06,Maggi,39,Kolkata
+2024-04-06,Sugar,22,Kolkata
+2024-04-06,Ghee,20,Kolkata
+2024-04-06,Dry Fruits,46,Kolkata
+2024-04-06,Rice,24,Kolkata
+2024-04-06,Tea,45,Kolkata
+2024-04-06,Soap,45,Kolkata
+2024-04-06,Biscuits,49,Kolkata
+2024-04-07,Maggi,44,Delhi
+2024-04-07,Sugar,27,Delhi
+2024-04-07,Ghee,31,Delhi
+2024-04-07,Dry Fruits,21,Delhi
+2024-04-07,Rice,20,Delhi
+2024-04-07,Tea,51,Delhi
+2024-04-07,Soap,42,Delhi
+2024-04-07,Biscuits,66,Delhi
+2024-04-07,Maggi,36,Chennai
+2024-04-07,Sugar,31,Chennai
+2024-04-07,Ghee,27,Chennai
+2024-04-07,Dry Fruits,41,Chennai
+2024-04-07,Rice,46,Chennai
+2024-04-07,Tea,32,Chennai
+2024-04-07,Soap,22,Chennai
+2024-04-07,Biscuits,48,Chennai
+2024-04-07,Maggi,45,Kolkata
+2024-04-07,Sugar,20,Kolkata
+2024-04-07,Ghee,24,Kolkata
+2024-04-07,Dry Fruits,45,Kolkata
+2024-04-07,Rice,42,Kolkata
+2024-04-07,Tea,49,Kolkata
+2024-04-07,Soap,46,Kolkata
+2024-04-07,Biscuits,52,Kolkata
+2024-04-08,Maggi,34,Delhi
+2024-04-08,Sugar,45,Delhi
+2024-04-08,Ghee,29,Delhi
+2024-04-08,Dry Fruits,47,Delhi
+2024-04-08,Rice,32,Delhi
+2024-04-08,Tea,38,Delhi
+2024-04-08,Soap,26,Delhi
+2024-04-08,Biscuits,36,Delhi
+2024-04-08,Maggi,39,Chennai
+2024-04-08,Sugar,48,Chennai
+2024-04-08,Ghee,23,Chennai
+2024-04-08,Dry Fruits,49,Chennai
+2024-04-08,Rice,24,Chennai
+2024-04-08,Tea,42,Chennai
+2024-04-08,Soap,26,Chennai
+2024-04-08,Biscuits,32,Chennai
+2024-04-08,Maggi,34,Kolkata
+2024-04-08,Sugar,30,Kolkata
+2024-04-08,Ghee,48,Kolkata
+2024-04-08,Dry Fruits,23,Kolkata
+2024-04-08,Rice,32,Kolkata
+2024-04-08,Tea,26,Kolkata
+2024-04-08,Soap,46,Kolkata
+2024-04-08,Biscuits,38,Kolkata
+2024-04-09,Maggi,41,Delhi
+2024-04-09,Sugar,47,Delhi
+2024-04-09,Ghee,21,Delhi
+2024-04-09,Dry Fruits,29,Delhi
+2024-04-09,Rice,32,Delhi
+2024-04-09,Tea,49,Delhi
+2024-04-09,Soap,44,Delhi
+2024-04-09,Biscuits,40,Delhi
+2024-04-09,Maggi,25,Chennai
+2024-04-09,Sugar,47,Chennai
+2024-04-09,Ghee,47,Chennai
+2024-04-09,Dry Fruits,31,Chennai
+2024-04-09,Rice,31,Chennai
+2024-04-09,Tea,39,Chennai
+2024-04-09,Soap,49,Chennai
+2024-04-09,Biscuits,49,Chennai
+2024-04-09,Maggi,30,Kolkata
+2024-04-09,Sugar,45,Kolkata
+2024-04-09,Ghee,42,Kolkata
+2024-04-09,Dry Fruits,47,Kolkata
+2024-04-09,Rice,44,Kolkata
+2024-04-09,Tea,26,Kolkata
+2024-04-09,Soap,49,Kolkata
+2024-04-09,Biscuits,20,Kolkata
+2024-04-10,Maggi,20,Delhi
+2024-04-10,Sugar,44,Delhi
+2024-04-10,Ghee,46,Delhi
+2024-04-10,Dry Fruits,49,Delhi
+2024-04-10,Rice,44,Delhi
+2024-04-10,Tea,39,Delhi
+2024-04-10,Soap,32,Delhi
+2024-04-10,Biscuits,28,Delhi
+2024-04-10,Maggi,22,Chennai
+2024-04-10,Sugar,26,Chennai
+2024-04-10,Ghee,25,Chennai
+2024-04-10,Dry Fruits,27,Chennai
+2024-04-10,Rice,46,Chennai
+2024-04-10,Tea,28,Chennai
+2024-04-10,Soap,49,Chennai
+2024-04-10,Biscuits,24,Chennai
+2024-04-10,Maggi,20,Kolkata
+2024-04-10,Sugar,38,Kolkata
+2024-04-10,Ghee,29,Kolkata
+2024-04-10,Dry Fruits,31,Kolkata
+2024-04-10,Rice,43,Kolkata
+2024-04-10,Tea,34,Kolkata
+2024-04-10,Soap,46,Kolkata
+2024-04-10,Biscuits,41,Kolkata
+2024-04-11,Maggi,43,Delhi
+2024-04-11,Sugar,28,Delhi
+2024-04-11,Ghee,39,Delhi
+2024-04-11,Dry Fruits,36,Delhi
+2024-04-11,Rice,49,Delhi
+2024-04-11,Tea,36,Delhi
+2024-04-11,Soap,45,Delhi
+2024-04-11,Biscuits,39,Delhi
+2024-04-11,Maggi,31,Chennai
+2024-04-11,Sugar,49,Chennai
+2024-04-11,Ghee,26,Chennai
+2024-04-11,Dry Fruits,21,Chennai
+2024-04-11,Rice,22,Chennai
+2024-04-11,Tea,36,Chennai
+2024-04-11,Soap,24,Chennai
+2024-04-11,Biscuits,36,Chennai
+2024-04-11,Maggi,43,Kolkata
+2024-04-11,Sugar,36,Kolkata
+2024-04-11,Ghee,46,Kolkata
+2024-04-11,Dry Fruits,36,Kolkata
+2024-04-11,Rice,21,Kolkata
+2024-04-11,Tea,21,Kolkata
+2024-04-11,Soap,47,Kolkata
+2024-04-11,Biscuits,41,Kolkata
+2024-04-12,Maggi,42,Delhi
+2024-04-12,Sugar,24,Delhi
+2024-04-12,Ghee,20,Delhi
+2024-04-12,Dry Fruits,20,Delhi
+2024-04-12,Rice,38,Delhi
+2024-04-12,Tea,49,Delhi
+2024-04-12,Soap,21,Delhi
+2024-04-12,Biscuits,40,Delhi
+2024-04-12,Maggi,31,Chennai
+2024-04-12,Sugar,45,Chennai
+2024-04-12,Ghee,25,Chennai
+2024-04-12,Dry Fruits,42,Chennai
+2024-04-12,Rice,23,Chennai
+2024-04-12,Tea,42,Chennai
+2024-04-12,Soap,30,Chennai
+2024-04-12,Biscuits,43,Chennai
+2024-04-12,Maggi,46,Kolkata
+2024-04-12,Sugar,36,Kolkata
+2024-04-12,Ghee,25,Kolkata
+2024-04-12,Dry Fruits,43,Kolkata
+2024-04-12,Rice,24,Kolkata
+2024-04-12,Tea,39,Kolkata
+2024-04-12,Soap,21,Kolkata
+2024-04-12,Biscuits,25,Kolkata
+2024-04-13,Maggi,61,Delhi
+2024-04-13,Sugar,35,Delhi
+2024-04-13,Ghee,35,Delhi
+2024-04-13,Dry Fruits,20,Delhi
+2024-04-13,Rice,28,Delhi
+2024-04-13,Tea,67,Delhi
+2024-04-13,Soap,25,Delhi
+2024-04-13,Biscuits,57,Delhi
+2024-04-13,Maggi,35,Chennai
+2024-04-13,Sugar,47,Chennai
+2024-04-13,Ghee,46,Chennai
+2024-04-13,Dry Fruits,23,Chennai
+2024-04-13,Rice,38,Chennai
+2024-04-13,Tea,57,Chennai
+2024-04-13,Soap,38,Chennai
+2024-04-13,Biscuits,55,Chennai
+2024-04-13,Maggi,57,Kolkata
+2024-04-13,Sugar,20,Kolkata
+2024-04-13,Ghee,27,Kolkata
+2024-04-13,Dry Fruits,26,Kolkata
+2024-04-13,Rice,37,Kolkata
+2024-04-13,Tea,37,Kolkata
+2024-04-13,Soap,30,Kolkata
+2024-04-13,Biscuits,65,Kolkata
+2024-04-14,Maggi,55,Delhi
+2024-04-14,Sugar,81,Delhi
+2024-04-14,Ghee,58,Delhi
+2024-04-14,Dry Fruits,92,Delhi
+2024-04-14,Rice,45,Delhi
+2024-04-14,Tea,53,Delhi
+2024-04-14,Soap,39,Delhi
+2024-04-14,Biscuits,57,Delhi
+2024-04-14,Maggi,31,Chennai
+2024-04-14,Sugar,76,Chennai
+2024-04-14,Ghee,58,Chennai
+2024-04-14,Dry Fruits,84,Chennai
+2024-04-14,Rice,28,Chennai
+2024-04-14,Tea,34,Chennai
+2024-04-14,Soap,35,Chennai
+2024-04-14,Biscuits,47,Chennai
+2024-04-14,Maggi,56,Kolkata
+2024-04-14,Sugar,71,Kolkata
+2024-04-14,Ghee,92,Kolkata
+2024-04-14,Dry Fruits,76,Kolkata
+2024-04-14,Rice,27,Kolkata
+2024-04-14,Tea,38,Kolkata
+2024-04-14,Soap,27,Kolkata
+2024-04-14,Biscuits,62,Kolkata
+2024-04-15,Maggi,22,Delhi
+2024-04-15,Sugar,35,Delhi
+2024-04-15,Ghee,49,Delhi
+2024-04-15,Dry Fruits,44,Delhi
+2024-04-15,Rice,22,Delhi
+2024-04-15,Tea,44,Delhi
+2024-04-15,Soap,48,Delhi
+2024-04-15,Biscuits,37,Delhi
+2024-04-15,Maggi,33,Chennai
+2024-04-15,Sugar,37,Chennai
+2024-04-15,Ghee,21,Chennai
+2024-04-15,Dry Fruits,41,Chennai
+2024-04-15,Rice,22,Chennai
+2024-04-15,Tea,35,Chennai
+2024-04-15,Soap,48,Chennai
+2024-04-15,Biscuits,28,Chennai
+2024-04-15,Maggi,23,Kolkata
+2024-04-15,Sugar,20,Kolkata
+2024-04-15,Ghee,23,Kolkata
+2024-04-15,Dry Fruits,20,Kolkata
+2024-04-15,Rice,33,Kolkata
+2024-04-15,Tea,40,Kolkata
+2024-04-15,Soap,35,Kolkata
+2024-04-15,Biscuits,39,Kolkata
+2024-04-16,Maggi,43,Delhi
+2024-04-16,Sugar,27,Delhi
+2024-04-16,Ghee,26,Delhi
+2024-04-16,Dry Fruits,22,Delhi
+2024-04-16,Rice,36,Delhi
+2024-04-16,Tea,20,Delhi
+2024-04-16,Soap,35,Delhi
+2024-04-16,Biscuits,31,Delhi
+2024-04-16,Maggi,46,Chennai
+2024-04-16,Sugar,38,Chennai
+2024-04-16,Ghee,41,Chennai
+2024-04-16,Dry Fruits,42,Chennai
+2024-04-16,Rice,41,Chennai
+2024-04-16,Tea,33,Chennai
+2024-04-16,Soap,49,Chennai
+2024-04-16,Biscuits,25,Chennai
+2024-04-16,Maggi,25,Kolkata
+2024-04-16,Sugar,32,Kolkata
+2024-04-16,Ghee,38,Kolkata
+2024-04-16,Dry Fruits,41,Kolkata
+2024-04-16,Rice,27,Kolkata
+2024-04-16,Tea,46,Kolkata
+2024-04-16,Soap,46,Kolkata
+2024-04-16,Biscuits,21,Kolkata
+2024-04-17,Maggi,40,Delhi
+2024-04-17,Sugar,49,Delhi
+2024-04-17,Ghee,20,Delhi
+2024-04-17,Dry Fruits,47,Delhi
+2024-04-17,Rice,34,Delhi
+2024-04-17,Tea,20,Delhi
+2024-04-17,Soap,24,Delhi
+2024-04-17,Biscuits,47,Delhi
+2024-04-17,Maggi,48,Chennai
+2024-04-17,Sugar,35,Chennai
+2024-04-17,Ghee,38,Chennai
+2024-04-17,Dry Fruits,23,Chennai
+2024-04-17,Rice,22,Chennai
+2024-04-17,Tea,36,Chennai
+2024-04-17,Soap,36,Chennai
+2024-04-17,Biscuits,31,Chennai
+2024-04-17,Maggi,47,Kolkata
+2024-04-17,Sugar,49,Kolkata
+2024-04-17,Ghee,48,Kolkata
+2024-04-17,Dry Fruits,33,Kolkata
+2024-04-17,Rice,40,Kolkata
+2024-04-17,Tea,25,Kolkata
+2024-04-17,Soap,22,Kolkata
+2024-04-17,Biscuits,47,Kolkata
+2024-04-18,Maggi,28,Delhi
+2024-04-18,Sugar,24,Delhi
+2024-04-18,Ghee,43,Delhi
+2024-04-18,Dry Fruits,48,Delhi
+2024-04-18,Rice,36,Delhi
+2024-04-18,Tea,33,Delhi
+2024-04-18,Soap,40,Delhi
+2024-04-18,Biscuits,22,Delhi
+2024-04-18,Maggi,47,Chennai
+2024-04-18,Sugar,20,Chennai
+2024-04-18,Ghee,39,Chennai
+2024-04-18,Dry Fruits,48,Chennai
+2024-04-18,Rice,40,Chennai
+2024-04-18,Tea,42,Chennai
+2024-04-18,Soap,20,Chennai
+2024-04-18,Biscuits,22,Chennai
+2024-04-18,Maggi,37,Kolkata
+2024-04-18,Sugar,44,Kolkata
+2024-04-18,Ghee,29,Kolkata
+2024-04-18,Dry Fruits,41,Kolkata
+2024-04-18,Rice,45,Kolkata
+2024-04-18,Tea,22,Kolkata
+2024-04-18,Soap,27,Kolkata
+2024-04-18,Biscuits,33,Kolkata
+2024-04-19,Maggi,43,Delhi
+2024-04-19,Sugar,37,Delhi
+2024-04-19,Ghee,34,Delhi
+2024-04-19,Dry Fruits,41,Delhi
+2024-04-19,Rice,42,Delhi
+2024-04-19,Tea,21,Delhi
+2024-04-19,Soap,46,Delhi
+2024-04-19,Biscuits,29,Delhi
+2024-04-19,Maggi,21,Chennai
+2024-04-19,Sugar,45,Chennai
+2024-04-19,Ghee,36,Chennai
+2024-04-19,Dry Fruits,27,Chennai
+2024-04-19,Rice,20,Chennai
+2024-04-19,Tea,28,Chennai
+2024-04-19,Soap,30,Chennai
+2024-04-19,Biscuits,41,Chennai
+2024-04-19,Maggi,35,Kolkata
+2024-04-19,Sugar,26,Kolkata
+2024-04-19,Ghee,48,Kolkata
+2024-04-19,Dry Fruits,29,Kolkata
+2024-04-19,Rice,42,Kolkata
+2024-04-19,Tea,45,Kolkata
+2024-04-19,Soap,22,Kolkata
+2024-04-19,Biscuits,37,Kolkata
+2024-04-20,Maggi,61,Delhi
+2024-04-20,Sugar,32,Delhi
+2024-04-20,Ghee,47,Delhi
+2024-04-20,Dry Fruits,45,Delhi
+2024-04-20,Rice,26,Delhi
+2024-04-20,Tea,57,Delhi
+2024-04-20,Soap,32,Delhi
+2024-04-20,Biscuits,49,Delhi
+2024-04-20,Maggi,50,Chennai
+2024-04-20,Sugar,35,Chennai
+2024-04-20,Ghee,33,Chennai
+2024-04-20,Dry Fruits,31,Chennai
+2024-04-20,Rice,38,Chennai
+2024-04-20,Tea,66,Chennai
+2024-04-20,Soap,47,Chennai
+2024-04-20,Biscuits,32,Chennai
+2024-04-20,Maggi,66,Kolkata
+2024-04-20,Sugar,41,Kolkata
+2024-04-20,Ghee,38,Kolkata
+2024-04-20,Dry Fruits,44,Kolkata
+2024-04-20,Rice,45,Kolkata
+2024-04-20,Tea,71,Kolkata
+2024-04-20,Soap,41,Kolkata
+2024-04-20,Biscuits,64,Kolkata
+2024-04-21,Maggi,51,Delhi
+2024-04-21,Sugar,39,Delhi
+2024-04-21,Ghee,29,Delhi
+2024-04-21,Dry Fruits,25,Delhi
+2024-04-21,Rice,34,Delhi
+2024-04-21,Tea,61,Delhi
+2024-04-21,Soap,47,Delhi
+2024-04-21,Biscuits,34,Delhi
+2024-04-21,Maggi,41,Chennai
+2024-04-21,Sugar,47,Chennai
+2024-04-21,Ghee,31,Chennai
+2024-04-21,Dry Fruits,31,Chennai
+2024-04-21,Rice,24,Chennai
+2024-04-21,Tea,39,Chennai
+2024-04-21,Soap,25,Chennai
+2024-04-21,Biscuits,45,Chennai
+2024-04-21,Maggi,73,Kolkata
+2024-04-21,Sugar,22,Kolkata
+2024-04-21,Ghee,42,Kolkata
+2024-04-21,Dry Fruits,27,Kolkata
+2024-04-21,Rice,39,Kolkata
+2024-04-21,Tea,57,Kolkata
+2024-04-21,Soap,37,Kolkata
+2024-04-21,Biscuits,66,Kolkata
+2024-04-22,Maggi,49,Delhi
+2024-04-22,Sugar,38,Delhi
+2024-04-22,Ghee,36,Delhi
+2024-04-22,Dry Fruits,43,Delhi
+2024-04-22,Rice,38,Delhi
+2024-04-22,Tea,47,Delhi
+2024-04-22,Soap,45,Delhi
+2024-04-22,Biscuits,42,Delhi
+2024-04-22,Maggi,45,Chennai
+2024-04-22,Sugar,24,Chennai
+2024-04-22,Ghee,45,Chennai
+2024-04-22,Dry Fruits,40,Chennai
+2024-04-22,Rice,49,Chennai
+2024-04-22,Tea,42,Chennai
+2024-04-22,Soap,28,Chennai
+2024-04-22,Biscuits,31,Chennai
+2024-04-22,Maggi,40,Kolkata
+2024-04-22,Sugar,20,Kolkata
+2024-04-22,Ghee,45,Kolkata
+2024-04-22,Dry Fruits,45,Kolkata
+2024-04-22,Rice,20,Kolkata
+2024-04-22,Tea,34,Kolkata
+2024-04-22,Soap,21,Kolkata
+2024-04-22,Biscuits,49,Kolkata
+2024-04-23,Maggi,41,Delhi
+2024-04-23,Sugar,35,Delhi
+2024-04-23,Ghee,44,Delhi
+2024-04-23,Dry Fruits,27,Delhi
+2024-04-23,Rice,32,Delhi
+2024-04-23,Tea,40,Delhi
+2024-04-23,Soap,20,Delhi
+2024-04-23,Biscuits,35,Delhi
+2024-04-23,Maggi,48,Chennai
+2024-04-23,Sugar,26,Chennai
+2024-04-23,Ghee,24,Chennai
+2024-04-23,Dry Fruits,41,Chennai
+2024-04-23,Rice,48,Chennai
+2024-04-23,Tea,42,Chennai
+2024-04-23,Soap,22,Chennai
+2024-04-23,Biscuits,31,Chennai
+2024-04-23,Maggi,45,Kolkata
+2024-04-23,Sugar,35,Kolkata
+2024-04-23,Ghee,38,Kolkata
+2024-04-23,Dry Fruits,24,Kolkata
+2024-04-23,Rice,41,Kolkata
+2024-04-23,Tea,44,Kolkata
+2024-04-23,Soap,48,Kolkata
+2024-04-23,Biscuits,33,Kolkata
+2024-04-24,Maggi,47,Delhi
+2024-04-24,Sugar,24,Delhi
+2024-04-24,Ghee,34,Delhi
+2024-04-24,Dry Fruits,36,Delhi
+2024-04-24,Rice,49,Delhi
+2024-04-24,Tea,33,Delhi
+2024-04-24,Soap,49,Delhi
+2024-04-24,Biscuits,39,Delhi
+2024-04-24,Maggi,24,Chennai
+2024-04-24,Sugar,31,Chennai
+2024-04-24,Ghee,35,Chennai
+2024-04-24,Dry Fruits,45,Chennai
+2024-04-24,Rice,45,Chennai
+2024-04-24,Tea,35,Chennai
+2024-04-24,Soap,40,Chennai
+2024-04-24,Biscuits,26,Chennai
+2024-04-24,Maggi,23,Kolkata
+2024-04-24,Sugar,20,Kolkata
+2024-04-24,Ghee,49,Kolkata
+2024-04-24,Dry Fruits,49,Kolkata
+2024-04-24,Rice,24,Kolkata
+2024-04-24,Tea,42,Kolkata
+2024-04-24,Soap,45,Kolkata
+2024-04-24,Biscuits,29,Kolkata
+2024-04-25,Maggi,41,Delhi
+2024-04-25,Sugar,24,Delhi
+2024-04-25,Ghee,23,Delhi
+2024-04-25,Dry Fruits,21,Delhi
+2024-04-25,Rice,39,Delhi
+2024-04-25,Tea,29,Delhi
+2024-04-25,Soap,45,Delhi
+2024-04-25,Biscuits,38,Delhi
+2024-04-25,Maggi,45,Chennai
+2024-04-25,Sugar,20,Chennai
+2024-04-25,Ghee,43,Chennai
+2024-04-25,Dry Fruits,24,Chennai
+2024-04-25,Rice,32,Chennai
+2024-04-25,Tea,23,Chennai
+2024-04-25,Soap,35,Chennai
+2024-04-25,Biscuits,43,Chennai
+2024-04-25,Maggi,35,Kolkata
+2024-04-25,Sugar,42,Kolkata
+2024-04-25,Ghee,21,Kolkata
+2024-04-25,Dry Fruits,36,Kolkata
+2024-04-25,Rice,47,Kolkata
+2024-04-25,Tea,46,Kolkata
+2024-04-25,Soap,39,Kolkata
+2024-04-25,Biscuits,43,Kolkata
+2024-04-26,Maggi,31,Delhi
+2024-04-26,Sugar,37,Delhi
+2024-04-26,Ghee,22,Delhi
+2024-04-26,Dry Fruits,47,Delhi
+2024-04-26,Rice,20,Delhi
+2024-04-26,Tea,20,Delhi
+2024-04-26,Soap,48,Delhi
+2024-04-26,Biscuits,38,Delhi
+2024-04-26,Maggi,30,Chennai
+2024-04-26,Sugar,24,Chennai
+2024-04-26,Ghee,31,Chennai
+2024-04-26,Dry Fruits,22,Chennai
+2024-04-26,Rice,20,Chennai
+2024-04-26,Tea,20,Chennai
+2024-04-26,Soap,27,Chennai
+2024-04-26,Biscuits,29,Chennai
+2024-04-26,Maggi,30,Kolkata
+2024-04-26,Sugar,31,Kolkata
+2024-04-26,Ghee,48,Kolkata
+2024-04-26,Dry Fruits,32,Kolkata
+2024-04-26,Rice,31,Kolkata
+2024-04-26,Tea,33,Kolkata
+2024-04-26,Soap,21,Kolkata
+2024-04-26,Biscuits,48,Kolkata
+2024-04-27,Maggi,49,Delhi
+2024-04-27,Sugar,22,Delhi
+2024-04-27,Ghee,42,Delhi
+2024-04-27,Dry Fruits,36,Delhi
+2024-04-27,Rice,45,Delhi
+2024-04-27,Tea,49,Delhi
+2024-04-27,Soap,45,Delhi
+2024-04-27,Biscuits,48,Delhi
+2024-04-27,Maggi,60,Chennai
+2024-04-27,Sugar,38,Chennai
+2024-04-27,Ghee,28,Chennai
+2024-04-27,Dry Fruits,26,Chennai
+2024-04-27,Rice,23,Chennai
+2024-04-27,Tea,59,Chennai
+2024-04-27,Soap,37,Chennai
+2024-04-27,Biscuits,52,Chennai
+2024-04-27,Maggi,65,Kolkata
+2024-04-27,Sugar,23,Kolkata
+2024-04-27,Ghee,44,Kolkata
+2024-04-27,Dry Fruits,40,Kolkata
+2024-04-27,Rice,48,Kolkata
+2024-04-27,Tea,57,Kolkata
+2024-04-27,Soap,29,Kolkata
+2024-04-27,Biscuits,42,Kolkata
+2024-04-28,Maggi,55,Delhi
+2024-04-28,Sugar,36,Delhi
+2024-04-28,Ghee,22,Delhi
+2024-04-28,Dry Fruits,35,Delhi
+2024-04-28,Rice,23,Delhi
+2024-04-28,Tea,47,Delhi
+2024-04-28,Soap,26,Delhi
+2024-04-28,Biscuits,59,Delhi
+2024-04-28,Maggi,63,Chennai
+2024-04-28,Sugar,31,Chennai
+2024-04-28,Ghee,36,Chennai
+2024-04-28,Dry Fruits,42,Chennai
+2024-04-28,Rice,32,Chennai
+2024-04-28,Tea,60,Chennai
+2024-04-28,Soap,22,Chennai
+2024-04-28,Biscuits,51,Chennai
+2024-04-28,Maggi,46,Kolkata
+2024-04-28,Sugar,49,Kolkata
+2024-04-28,Ghee,39,Kolkata
+2024-04-28,Dry Fruits,35,Kolkata
+2024-04-28,Rice,44,Kolkata
+2024-04-28,Tea,63,Kolkata
+2024-04-28,Soap,46,Kolkata
+2024-04-28,Biscuits,48,Kolkata
+2024-04-29,Maggi,23,Delhi
+2024-04-29,Sugar,31,Delhi
+2024-04-29,Ghee,48,Delhi
+2024-04-29,Dry Fruits,28,Delhi
+2024-04-29,Rice,38,Delhi
+2024-04-29,Tea,31,Delhi
+2024-04-29,Soap,28,Delhi
+2024-04-29,Biscuits,26,Delhi
+2024-04-29,Maggi,47,Chennai
+2024-04-29,Sugar,33,Chennai
+2024-04-29,Ghee,39,Chennai
+2024-04-29,Dry Fruits,38,Chennai
+2024-04-29,Rice,45,Chennai
+2024-04-29,Tea,34,Chennai
+2024-04-29,Soap,35,Chennai
+2024-04-29,Biscuits,40,Chennai
+2024-04-29,Maggi,24,Kolkata
+2024-04-29,Sugar,22,Kolkata
+2024-04-29,Ghee,31,Kolkata
+2024-04-29,Dry Fruits,44,Kolkata
+2024-04-29,Rice,39,Kolkata
+2024-04-29,Tea,46,Kolkata
+2024-04-29,Soap,40,Kolkata
+2024-04-29,Biscuits,23,Kolkata
+2024-04-30,Maggi,40,Delhi
+2024-04-30,Sugar,42,Delhi
+2024-04-30,Ghee,35,Delhi
+2024-04-30,Dry Fruits,44,Delhi
+2024-04-30,Rice,26,Delhi
+2024-04-30,Tea,32,Delhi
+2024-04-30,Soap,40,Delhi
+2024-04-30,Biscuits,29,Delhi
+2024-04-30,Maggi,45,Chennai
+2024-04-30,Sugar,26,Chennai
+2024-04-30,Ghee,33,Chennai
+2024-04-30,Dry Fruits,45,Chennai
+2024-04-30,Rice,24,Chennai
+2024-04-30,Tea,22,Chennai
+2024-04-30,Soap,42,Chennai
+2024-04-30,Biscuits,48,Chennai
+2024-04-30,Maggi,30,Kolkata
+2024-04-30,Sugar,30,Kolkata
+2024-04-30,Ghee,37,Kolkata
+2024-04-30,Dry Fruits,34,Kolkata
+2024-04-30,Rice,31,Kolkata
+2024-04-30,Tea,28,Kolkata
+2024-04-30,Soap,29,Kolkata
+2024-04-30,Biscuits,45,Kolkata
+2024-05-01,Maggi,31,Delhi
+2024-05-01,Sugar,36,Delhi
+2024-05-01,Ghee,48,Delhi
+2024-05-01,Dry Fruits,25,Delhi
+2024-05-01,Rice,26,Delhi
+2024-05-01,Tea,33,Delhi
+2024-05-01,Soap,32,Delhi
+2024-05-01,Biscuits,27,Delhi
+2024-05-01,Maggi,29,Chennai
+2024-05-01,Sugar,28,Chennai
+2024-05-01,Ghee,37,Chennai
+2024-05-01,Dry Fruits,46,Chennai
+2024-05-01,Rice,45,Chennai
+2024-05-01,Tea,21,Chennai
+2024-05-01,Soap,24,Chennai
+2024-05-01,Biscuits,48,Chennai
+2024-05-01,Maggi,24,Kolkata
+2024-05-01,Sugar,25,Kolkata
+2024-05-01,Ghee,38,Kolkata
+2024-05-01,Dry Fruits,27,Kolkata
+2024-05-01,Rice,35,Kolkata
+2024-05-01,Tea,32,Kolkata
+2024-05-01,Soap,20,Kolkata
+2024-05-01,Biscuits,41,Kolkata
+2024-05-02,Maggi,39,Delhi
+2024-05-02,Sugar,36,Delhi
+2024-05-02,Ghee,26,Delhi
+2024-05-02,Dry Fruits,44,Delhi
+2024-05-02,Rice,32,Delhi
+2024-05-02,Tea,23,Delhi
+2024-05-02,Soap,23,Delhi
+2024-05-02,Biscuits,25,Delhi
+2024-05-02,Maggi,47,Chennai
+2024-05-02,Sugar,38,Chennai
+2024-05-02,Ghee,48,Chennai
+2024-05-02,Dry Fruits,31,Chennai
+2024-05-02,Rice,41,Chennai
+2024-05-02,Tea,26,Chennai
+2024-05-02,Soap,46,Chennai
+2024-05-02,Biscuits,29,Chennai
+2024-05-02,Maggi,45,Kolkata
+2024-05-02,Sugar,38,Kolkata
+2024-05-02,Ghee,26,Kolkata
+2024-05-02,Dry Fruits,49,Kolkata
+2024-05-02,Rice,22,Kolkata
+2024-05-02,Tea,32,Kolkata
+2024-05-02,Soap,32,Kolkata
+2024-05-02,Biscuits,37,Kolkata
+2024-05-03,Maggi,47,Delhi
+2024-05-03,Sugar,49,Delhi
+2024-05-03,Ghee,45,Delhi
+2024-05-03,Dry Fruits,39,Delhi
+2024-05-03,Rice,47,Delhi
+2024-05-03,Tea,27,Delhi
+2024-05-03,Soap,48,Delhi
+2024-05-03,Biscuits,28,Delhi
+2024-05-03,Maggi,26,Chennai
+2024-05-03,Sugar,20,Chennai
+2024-05-03,Ghee,22,Chennai
+2024-05-03,Dry Fruits,32,Chennai
+2024-05-03,Rice,47,Chennai
+2024-05-03,Tea,49,Chennai
+2024-05-03,Soap,44,Chennai
+2024-05-03,Biscuits,47,Chennai
+2024-05-03,Maggi,36,Kolkata
+2024-05-03,Sugar,44,Kolkata
+2024-05-03,Ghee,43,Kolkata
+2024-05-03,Dry Fruits,20,Kolkata
+2024-05-03,Rice,25,Kolkata
+2024-05-03,Tea,40,Kolkata
+2024-05-03,Soap,25,Kolkata
+2024-05-03,Biscuits,45,Kolkata
+2024-05-04,Maggi,53,Delhi
+2024-05-04,Sugar,32,Delhi
+2024-05-04,Ghee,48,Delhi
+2024-05-04,Dry Fruits,34,Delhi
+2024-05-04,Rice,40,Delhi
+2024-05-04,Tea,50,Delhi
+2024-05-04,Soap,40,Delhi
+2024-05-04,Biscuits,51,Delhi
+2024-05-04,Maggi,37,Chennai
+2024-05-04,Sugar,22,Chennai
+2024-05-04,Ghee,38,Chennai
+2024-05-04,Dry Fruits,39,Chennai
+2024-05-04,Rice,44,Chennai
+2024-05-04,Tea,61,Chennai
+2024-05-04,Soap,28,Chennai
+2024-05-04,Biscuits,59,Chennai
+2024-05-04,Maggi,58,Kolkata
+2024-05-04,Sugar,20,Kolkata
+2024-05-04,Ghee,40,Kolkata
+2024-05-04,Dry Fruits,41,Kolkata
+2024-05-04,Rice,41,Kolkata
+2024-05-04,Tea,38,Kolkata
+2024-05-04,Soap,44,Kolkata
+2024-05-04,Biscuits,51,Kolkata
+2024-05-05,Maggi,46,Delhi
+2024-05-05,Sugar,25,Delhi
+2024-05-05,Ghee,31,Delhi
+2024-05-05,Dry Fruits,43,Delhi
+2024-05-05,Rice,47,Delhi
+2024-05-05,Tea,57,Delhi
+2024-05-05,Soap,45,Delhi
+2024-05-05,Biscuits,60,Delhi
+2024-05-05,Maggi,62,Chennai
+2024-05-05,Sugar,45,Chennai
+2024-05-05,Ghee,47,Chennai
+2024-05-05,Dry Fruits,37,Chennai
+2024-05-05,Rice,47,Chennai
+2024-05-05,Tea,61,Chennai
+2024-05-05,Soap,28,Chennai
+2024-05-05,Biscuits,43,Chennai
+2024-05-05,Maggi,65,Kolkata
+2024-05-05,Sugar,36,Kolkata
+2024-05-05,Ghee,28,Kolkata
+2024-05-05,Dry Fruits,20,Kolkata
+2024-05-05,Rice,40,Kolkata
+2024-05-05,Tea,61,Kolkata
+2024-05-05,Soap,47,Kolkata
+2024-05-05,Biscuits,57,Kolkata
+2024-05-06,Maggi,32,Delhi
+2024-05-06,Sugar,33,Delhi
+2024-05-06,Ghee,22,Delhi
+2024-05-06,Dry Fruits,48,Delhi
+2024-05-06,Rice,25,Delhi
+2024-05-06,Tea,37,Delhi
+2024-05-06,Soap,38,Delhi
+2024-05-06,Biscuits,24,Delhi
+2024-05-06,Maggi,34,Chennai
+2024-05-06,Sugar,44,Chennai
+2024-05-06,Ghee,21,Chennai
+2024-05-06,Dry Fruits,29,Chennai
+2024-05-06,Rice,43,Chennai
+2024-05-06,Tea,49,Chennai
+2024-05-06,Soap,37,Chennai
+2024-05-06,Biscuits,46,Chennai
+2024-05-06,Maggi,32,Kolkata
+2024-05-06,Sugar,24,Kolkata
+2024-05-06,Ghee,42,Kolkata
+2024-05-06,Dry Fruits,43,Kolkata
+2024-05-06,Rice,20,Kolkata
+2024-05-06,Tea,41,Kolkata
+2024-05-06,Soap,20,Kolkata
+2024-05-06,Biscuits,37,Kolkata
+2024-05-07,Maggi,34,Delhi
+2024-05-07,Sugar,36,Delhi
+2024-05-07,Ghee,30,Delhi
+2024-05-07,Dry Fruits,40,Delhi
+2024-05-07,Rice,45,Delhi
+2024-05-07,Tea,44,Delhi
+2024-05-07,Soap,41,Delhi
+2024-05-07,Biscuits,46,Delhi
+2024-05-07,Maggi,46,Chennai
+2024-05-07,Sugar,36,Chennai
+2024-05-07,Ghee,32,Chennai
+2024-05-07,Dry Fruits,20,Chennai
+2024-05-07,Rice,21,Chennai
+2024-05-07,Tea,28,Chennai
+2024-05-07,Soap,22,Chennai
+2024-05-07,Biscuits,20,Chennai
+2024-05-07,Maggi,40,Kolkata
+2024-05-07,Sugar,35,Kolkata
+2024-05-07,Ghee,42,Kolkata
+2024-05-07,Dry Fruits,25,Kolkata
+2024-05-07,Rice,47,Kolkata
+2024-05-07,Tea,36,Kolkata
+2024-05-07,Soap,24,Kolkata
+2024-05-07,Biscuits,24,Kolkata
+2024-05-08,Maggi,25,Delhi
+2024-05-08,Sugar,22,Delhi
+2024-05-08,Ghee,40,Delhi
+2024-05-08,Dry Fruits,42,Delhi
+2024-05-08,Rice,24,Delhi
+2024-05-08,Tea,40,Delhi
+2024-05-08,Soap,24,Delhi
+2024-05-08,Biscuits,29,Delhi
+2024-05-08,Maggi,29,Chennai
+2024-05-08,Sugar,38,Chennai
+2024-05-08,Ghee,36,Chennai
+2024-05-08,Dry Fruits,40,Chennai
+2024-05-08,Rice,33,Chennai
+2024-05-08,Tea,28,Chennai
+2024-05-08,Soap,33,Chennai
+2024-05-08,Biscuits,20,Chennai
+2024-05-08,Maggi,38,Kolkata
+2024-05-08,Sugar,32,Kolkata
+2024-05-08,Ghee,32,Kolkata
+2024-05-08,Dry Fruits,23,Kolkata
+2024-05-08,Rice,49,Kolkata
+2024-05-08,Tea,20,Kolkata
+2024-05-08,Soap,36,Kolkata
+2024-05-08,Biscuits,27,Kolkata
+2024-05-09,Maggi,21,Delhi
+2024-05-09,Sugar,47,Delhi
+2024-05-09,Ghee,27,Delhi
+2024-05-09,Dry Fruits,26,Delhi
+2024-05-09,Rice,45,Delhi
+2024-05-09,Tea,45,Delhi
+2024-05-09,Soap,21,Delhi
+2024-05-09,Biscuits,41,Delhi
+2024-05-09,Maggi,41,Chennai
+2024-05-09,Sugar,22,Chennai
+2024-05-09,Ghee,46,Chennai
+2024-05-09,Dry Fruits,37,Chennai
+2024-05-09,Rice,31,Chennai
+2024-05-09,Tea,20,Chennai
+2024-05-09,Soap,41,Chennai
+2024-05-09,Biscuits,31,Chennai
+2024-05-09,Maggi,24,Kolkata
+2024-05-09,Sugar,49,Kolkata
+2024-05-09,Ghee,49,Kolkata
+2024-05-09,Dry Fruits,46,Kolkata
+2024-05-09,Rice,44,Kolkata
+2024-05-09,Tea,36,Kolkata
+2024-05-09,Soap,35,Kolkata
+2024-05-09,Biscuits,34,Kolkata
+2024-05-10,Maggi,42,Delhi
+2024-05-10,Sugar,68,Delhi
+2024-05-10,Ghee,83,Delhi
+2024-05-10,Dry Fruits,61,Delhi
+2024-05-10,Rice,38,Delhi
+2024-05-10,Tea,26,Delhi
+2024-05-10,Soap,25,Delhi
+2024-05-10,Biscuits,47,Delhi
+2024-05-10,Maggi,21,Chennai
+2024-05-10,Sugar,72,Chennai
+2024-05-10,Ghee,68,Chennai
+2024-05-10,Dry Fruits,93,Chennai
+2024-05-10,Rice,46,Chennai
+2024-05-10,Tea,38,Chennai
+2024-05-10,Soap,21,Chennai
+2024-05-10,Biscuits,39,Chennai
+2024-05-10,Maggi,44,Kolkata
+2024-05-10,Sugar,55,Kolkata
+2024-05-10,Ghee,87,Kolkata
+2024-05-10,Dry Fruits,86,Kolkata
+2024-05-10,Rice,38,Kolkata
+2024-05-10,Tea,36,Kolkata
+2024-05-10,Soap,24,Kolkata
+2024-05-10,Biscuits,48,Kolkata
+2024-05-11,Maggi,42,Delhi
+2024-05-11,Sugar,43,Delhi
+2024-05-11,Ghee,36,Delhi
+2024-05-11,Dry Fruits,29,Delhi
+2024-05-11,Rice,36,Delhi
+2024-05-11,Tea,60,Delhi
+2024-05-11,Soap,43,Delhi
+2024-05-11,Biscuits,35,Delhi
+2024-05-11,Maggi,39,Chennai
+2024-05-11,Sugar,21,Chennai
+2024-05-11,Ghee,32,Chennai
+2024-05-11,Dry Fruits,49,Chennai
+2024-05-11,Rice,30,Chennai
+2024-05-11,Tea,50,Chennai
+2024-05-11,Soap,38,Chennai
+2024-05-11,Biscuits,52,Chennai
+2024-05-11,Maggi,58,Kolkata
+2024-05-11,Sugar,35,Kolkata
+2024-05-11,Ghee,30,Kolkata
+2024-05-11,Dry Fruits,41,Kolkata
+2024-05-11,Rice,35,Kolkata
+2024-05-11,Tea,40,Kolkata
+2024-05-11,Soap,27,Kolkata
+2024-05-11,Biscuits,40,Kolkata
+2024-05-12,Maggi,56,Delhi
+2024-05-12,Sugar,22,Delhi
+2024-05-12,Ghee,46,Delhi
+2024-05-12,Dry Fruits,48,Delhi
+2024-05-12,Rice,37,Delhi
+2024-05-12,Tea,67,Delhi
+2024-05-12,Soap,38,Delhi
+2024-05-12,Biscuits,52,Delhi
+2024-05-12,Maggi,35,Chennai
+2024-05-12,Sugar,47,Chennai
+2024-05-12,Ghee,29,Chennai
+2024-05-12,Dry Fruits,48,Chennai
+2024-05-12,Rice,41,Chennai
+2024-05-12,Tea,55,Chennai
+2024-05-12,Soap,20,Chennai
+2024-05-12,Biscuits,42,Chennai
+2024-05-12,Maggi,50,Kolkata
+2024-05-12,Sugar,33,Kolkata
+2024-05-12,Ghee,21,Kolkata
+2024-05-12,Dry Fruits,36,Kolkata
+2024-05-12,Rice,33,Kolkata
+2024-05-12,Tea,67,Kolkata
+2024-05-12,Soap,46,Kolkata
+2024-05-12,Biscuits,47,Kolkata
+2024-05-13,Maggi,44,Delhi
+2024-05-13,Sugar,34,Delhi
+2024-05-13,Ghee,44,Delhi
+2024-05-13,Dry Fruits,41,Delhi
+2024-05-13,Rice,34,Delhi
+2024-05-13,Tea,43,Delhi
+2024-05-13,Soap,49,Delhi
+2024-05-13,Biscuits,30,Delhi
+2024-05-13,Maggi,35,Chennai
+2024-05-13,Sugar,48,Chennai
+2024-05-13,Ghee,36,Chennai
+2024-05-13,Dry Fruits,45,Chennai
+2024-05-13,Rice,23,Chennai
+2024-05-13,Tea,20,Chennai
+2024-05-13,Soap,27,Chennai
+2024-05-13,Biscuits,36,Chennai
+2024-05-13,Maggi,22,Kolkata
+2024-05-13,Sugar,48,Kolkata
+2024-05-13,Ghee,39,Kolkata
+2024-05-13,Dry Fruits,34,Kolkata
+2024-05-13,Rice,34,Kolkata
+2024-05-13,Tea,43,Kolkata
+2024-05-13,Soap,41,Kolkata
+2024-05-13,Biscuits,33,Kolkata
+2024-05-14,Maggi,45,Delhi
+2024-05-14,Sugar,47,Delhi
+2024-05-14,Ghee,42,Delhi
+2024-05-14,Dry Fruits,33,Delhi
+2024-05-14,Rice,43,Delhi
+2024-05-14,Tea,21,Delhi
+2024-05-14,Soap,32,Delhi
+2024-05-14,Biscuits,45,Delhi
+2024-05-14,Maggi,33,Chennai
+2024-05-14,Sugar,46,Chennai
+2024-05-14,Ghee,43,Chennai
+2024-05-14,Dry Fruits,38,Chennai
+2024-05-14,Rice,26,Chennai
+2024-05-14,Tea,22,Chennai
+2024-05-14,Soap,34,Chennai
+2024-05-14,Biscuits,42,Chennai
+2024-05-14,Maggi,33,Kolkata
+2024-05-14,Sugar,30,Kolkata
+2024-05-14,Ghee,34,Kolkata
+2024-05-14,Dry Fruits,47,Kolkata
+2024-05-14,Rice,32,Kolkata
+2024-05-14,Tea,37,Kolkata
+2024-05-14,Soap,45,Kolkata
+2024-05-14,Biscuits,25,Kolkata
+2024-05-15,Maggi,22,Delhi
+2024-05-15,Sugar,38,Delhi
+2024-05-15,Ghee,34,Delhi
+2024-05-15,Dry Fruits,44,Delhi
+2024-05-15,Rice,42,Delhi
+2024-05-15,Tea,24,Delhi
+2024-05-15,Soap,47,Delhi
+2024-05-15,Biscuits,29,Delhi
+2024-05-15,Maggi,26,Chennai
+2024-05-15,Sugar,44,Chennai
+2024-05-15,Ghee,36,Chennai
+2024-05-15,Dry Fruits,26,Chennai
+2024-05-15,Rice,41,Chennai
+2024-05-15,Tea,45,Chennai
+2024-05-15,Soap,49,Chennai
+2024-05-15,Biscuits,31,Chennai
+2024-05-15,Maggi,44,Kolkata
+2024-05-15,Sugar,36,Kolkata
+2024-05-15,Ghee,32,Kolkata
+2024-05-15,Dry Fruits,39,Kolkata
+2024-05-15,Rice,44,Kolkata
+2024-05-15,Tea,23,Kolkata
+2024-05-15,Soap,29,Kolkata
+2024-05-15,Biscuits,22,Kolkata
+2024-05-16,Maggi,28,Delhi
+2024-05-16,Sugar,32,Delhi
+2024-05-16,Ghee,37,Delhi
+2024-05-16,Dry Fruits,34,Delhi
+2024-05-16,Rice,23,Delhi
+2024-05-16,Tea,34,Delhi
+2024-05-16,Soap,41,Delhi
+2024-05-16,Biscuits,21,Delhi
+2024-05-16,Maggi,34,Chennai
+2024-05-16,Sugar,27,Chennai
+2024-05-16,Ghee,27,Chennai
+2024-05-16,Dry Fruits,36,Chennai
+2024-05-16,Rice,31,Chennai
+2024-05-16,Tea,38,Chennai
+2024-05-16,Soap,29,Chennai
+2024-05-16,Biscuits,28,Chennai
+2024-05-16,Maggi,24,Kolkata
+2024-05-16,Sugar,25,Kolkata
+2024-05-16,Ghee,39,Kolkata
+2024-05-16,Dry Fruits,45,Kolkata
+2024-05-16,Rice,21,Kolkata
+2024-05-16,Tea,46,Kolkata
+2024-05-16,Soap,43,Kolkata
+2024-05-16,Biscuits,46,Kolkata
+2024-05-17,Maggi,32,Delhi
+2024-05-17,Sugar,25,Delhi
+2024-05-17,Ghee,24,Delhi
+2024-05-17,Dry Fruits,44,Delhi
+2024-05-17,Rice,20,Delhi
+2024-05-17,Tea,40,Delhi
+2024-05-17,Soap,41,Delhi
+2024-05-17,Biscuits,40,Delhi
+2024-05-17,Maggi,25,Chennai
+2024-05-17,Sugar,25,Chennai
+2024-05-17,Ghee,42,Chennai
+2024-05-17,Dry Fruits,35,Chennai
+2024-05-17,Rice,23,Chennai
+2024-05-17,Tea,49,Chennai
+2024-05-17,Soap,30,Chennai
+2024-05-17,Biscuits,49,Chennai
+2024-05-17,Maggi,49,Kolkata
+2024-05-17,Sugar,49,Kolkata
+2024-05-17,Ghee,43,Kolkata
+2024-05-17,Dry Fruits,42,Kolkata
+2024-05-17,Rice,28,Kolkata
+2024-05-17,Tea,42,Kolkata
+2024-05-17,Soap,22,Kolkata
+2024-05-17,Biscuits,38,Kolkata
+2024-05-18,Maggi,41,Delhi
+2024-05-18,Sugar,23,Delhi
+2024-05-18,Ghee,43,Delhi
+2024-05-18,Dry Fruits,25,Delhi
+2024-05-18,Rice,21,Delhi
+2024-05-18,Tea,60,Delhi
+2024-05-18,Soap,30,Delhi
+2024-05-18,Biscuits,47,Delhi
+2024-05-18,Maggi,40,Chennai
+2024-05-18,Sugar,36,Chennai
+2024-05-18,Ghee,49,Chennai
+2024-05-18,Dry Fruits,43,Chennai
+2024-05-18,Rice,25,Chennai
+2024-05-18,Tea,61,Chennai
+2024-05-18,Soap,44,Chennai
+2024-05-18,Biscuits,45,Chennai
+2024-05-18,Maggi,47,Kolkata
+2024-05-18,Sugar,45,Kolkata
+2024-05-18,Ghee,38,Kolkata
+2024-05-18,Dry Fruits,32,Kolkata
+2024-05-18,Rice,31,Kolkata
+2024-05-18,Tea,39,Kolkata
+2024-05-18,Soap,45,Kolkata
+2024-05-18,Biscuits,54,Kolkata
+2024-05-19,Maggi,51,Delhi
+2024-05-19,Sugar,20,Delhi
+2024-05-19,Ghee,39,Delhi
+2024-05-19,Dry Fruits,36,Delhi
+2024-05-19,Rice,31,Delhi
+2024-05-19,Tea,44,Delhi
+2024-05-19,Soap,45,Delhi
+2024-05-19,Biscuits,48,Delhi
+2024-05-19,Maggi,47,Chennai
+2024-05-19,Sugar,30,Chennai
+2024-05-19,Ghee,23,Chennai
+2024-05-19,Dry Fruits,32,Chennai
+2024-05-19,Rice,30,Chennai
+2024-05-19,Tea,32,Chennai
+2024-05-19,Soap,25,Chennai
+2024-05-19,Biscuits,54,Chennai
+2024-05-19,Maggi,43,Kolkata
+2024-05-19,Sugar,42,Kolkata
+2024-05-19,Ghee,29,Kolkata
+2024-05-19,Dry Fruits,31,Kolkata
+2024-05-19,Rice,21,Kolkata
+2024-05-19,Tea,49,Kolkata
+2024-05-19,Soap,21,Kolkata
+2024-05-19,Biscuits,49,Kolkata
+2024-05-20,Maggi,24,Delhi
+2024-05-20,Sugar,28,Delhi
+2024-05-20,Ghee,36,Delhi
+2024-05-20,Dry Fruits,28,Delhi
+2024-05-20,Rice,30,Delhi
+2024-05-20,Tea,34,Delhi
+2024-05-20,Soap,43,Delhi
+2024-05-20,Biscuits,25,Delhi
+2024-05-20,Maggi,42,Chennai
+2024-05-20,Sugar,22,Chennai
+2024-05-20,Ghee,49,Chennai
+2024-05-20,Dry Fruits,36,Chennai
+2024-05-20,Rice,24,Chennai
+2024-05-20,Tea,49,Chennai
+2024-05-20,Soap,47,Chennai
+2024-05-20,Biscuits,31,Chennai
+2024-05-20,Maggi,37,Kolkata
+2024-05-20,Sugar,33,Kolkata
+2024-05-20,Ghee,40,Kolkata
+2024-05-20,Dry Fruits,43,Kolkata
+2024-05-20,Rice,30,Kolkata
+2024-05-20,Tea,28,Kolkata
+2024-05-20,Soap,21,Kolkata
+2024-05-20,Biscuits,31,Kolkata
+2024-05-21,Maggi,22,Delhi
+2024-05-21,Sugar,22,Delhi
+2024-05-21,Ghee,20,Delhi
+2024-05-21,Dry Fruits,27,Delhi
+2024-05-21,Rice,41,Delhi
+2024-05-21,Tea,47,Delhi
+2024-05-21,Soap,48,Delhi
+2024-05-21,Biscuits,27,Delhi
+2024-05-21,Maggi,30,Chennai
+2024-05-21,Sugar,28,Chennai
+2024-05-21,Ghee,24,Chennai
+2024-05-21,Dry Fruits,33,Chennai
+2024-05-21,Rice,47,Chennai
+2024-05-21,Tea,49,Chennai
+2024-05-21,Soap,22,Chennai
+2024-05-21,Biscuits,40,Chennai
+2024-05-21,Maggi,24,Kolkata
+2024-05-21,Sugar,24,Kolkata
+2024-05-21,Ghee,38,Kolkata
+2024-05-21,Dry Fruits,46,Kolkata
+2024-05-21,Rice,33,Kolkata
+2024-05-21,Tea,45,Kolkata
+2024-05-21,Soap,49,Kolkata
+2024-05-21,Biscuits,23,Kolkata
+2024-05-22,Maggi,44,Delhi
+2024-05-22,Sugar,32,Delhi
+2024-05-22,Ghee,29,Delhi
+2024-05-22,Dry Fruits,44,Delhi
+2024-05-22,Rice,37,Delhi
+2024-05-22,Tea,27,Delhi
+2024-05-22,Soap,27,Delhi
+2024-05-22,Biscuits,26,Delhi
+2024-05-22,Maggi,27,Chennai
+2024-05-22,Sugar,33,Chennai
+2024-05-22,Ghee,38,Chennai
+2024-05-22,Dry Fruits,48,Chennai
+2024-05-22,Rice,25,Chennai
+2024-05-22,Tea,20,Chennai
+2024-05-22,Soap,42,Chennai
+2024-05-22,Biscuits,34,Chennai
+2024-05-22,Maggi,20,Kolkata
+2024-05-22,Sugar,44,Kolkata
+2024-05-22,Ghee,36,Kolkata
+2024-05-22,Dry Fruits,20,Kolkata
+2024-05-22,Rice,34,Kolkata
+2024-05-22,Tea,42,Kolkata
+2024-05-22,Soap,21,Kolkata
+2024-05-22,Biscuits,33,Kolkata
+2024-05-23,Maggi,40,Delhi
+2024-05-23,Sugar,27,Delhi
+2024-05-23,Ghee,27,Delhi
+2024-05-23,Dry Fruits,38,Delhi
+2024-05-23,Rice,26,Delhi
+2024-05-23,Tea,38,Delhi
+2024-05-23,Soap,25,Delhi
+2024-05-23,Biscuits,25,Delhi
+2024-05-23,Maggi,22,Chennai
+2024-05-23,Sugar,26,Chennai
+2024-05-23,Ghee,38,Chennai
+2024-05-23,Dry Fruits,27,Chennai
+2024-05-23,Rice,29,Chennai
+2024-05-23,Tea,39,Chennai
+2024-05-23,Soap,34,Chennai
+2024-05-23,Biscuits,34,Chennai
+2024-05-23,Maggi,48,Kolkata
+2024-05-23,Sugar,20,Kolkata
+2024-05-23,Ghee,39,Kolkata
+2024-05-23,Dry Fruits,49,Kolkata
+2024-05-23,Rice,26,Kolkata
+2024-05-23,Tea,46,Kolkata
+2024-05-23,Soap,23,Kolkata
+2024-05-23,Biscuits,48,Kolkata
+2024-05-24,Maggi,25,Delhi
+2024-05-24,Sugar,44,Delhi
+2024-05-24,Ghee,20,Delhi
+2024-05-24,Dry Fruits,48,Delhi
+2024-05-24,Rice,24,Delhi
+2024-05-24,Tea,46,Delhi
+2024-05-24,Soap,42,Delhi
+2024-05-24,Biscuits,20,Delhi
+2024-05-24,Maggi,49,Chennai
+2024-05-24,Sugar,23,Chennai
+2024-05-24,Ghee,41,Chennai
+2024-05-24,Dry Fruits,21,Chennai
+2024-05-24,Rice,29,Chennai
+2024-05-24,Tea,24,Chennai
+2024-05-24,Soap,46,Chennai
+2024-05-24,Biscuits,29,Chennai
+2024-05-24,Maggi,20,Kolkata
+2024-05-24,Sugar,41,Kolkata
+2024-05-24,Ghee,25,Kolkata
+2024-05-24,Dry Fruits,32,Kolkata
+2024-05-24,Rice,34,Kolkata
+2024-05-24,Tea,23,Kolkata
+2024-05-24,Soap,32,Kolkata
+2024-05-24,Biscuits,43,Kolkata
+2024-05-25,Maggi,56,Delhi
+2024-05-25,Sugar,34,Delhi
+2024-05-25,Ghee,48,Delhi
+2024-05-25,Dry Fruits,27,Delhi
+2024-05-25,Rice,24,Delhi
+2024-05-25,Tea,72,Delhi
+2024-05-25,Soap,23,Delhi
+2024-05-25,Biscuits,53,Delhi
+2024-05-25,Maggi,41,Chennai
+2024-05-25,Sugar,38,Chennai
+2024-05-25,Ghee,38,Chennai
+2024-05-25,Dry Fruits,23,Chennai
+2024-05-25,Rice,23,Chennai
+2024-05-25,Tea,65,Chennai
+2024-05-25,Soap,46,Chennai
+2024-05-25,Biscuits,37,Chennai
+2024-05-25,Maggi,53,Kolkata
+2024-05-25,Sugar,29,Kolkata
+2024-05-25,Ghee,27,Kolkata
+2024-05-25,Dry Fruits,25,Kolkata
+2024-05-25,Rice,25,Kolkata
+2024-05-25,Tea,43,Kolkata
+2024-05-25,Soap,34,Kolkata
+2024-05-25,Biscuits,68,Kolkata
+2024-05-26,Maggi,51,Delhi
+2024-05-26,Sugar,45,Delhi
+2024-05-26,Ghee,32,Delhi
+2024-05-26,Dry Fruits,27,Delhi
+2024-05-26,Rice,49,Delhi
+2024-05-26,Tea,55,Delhi
+2024-05-26,Soap,20,Delhi
+2024-05-26,Biscuits,51,Delhi
+2024-05-26,Maggi,67,Chennai
+2024-05-26,Sugar,31,Chennai
+2024-05-26,Ghee,31,Chennai
+2024-05-26,Dry Fruits,23,Chennai
+2024-05-26,Rice,35,Chennai
+2024-05-26,Tea,37,Chennai
+2024-05-26,Soap,43,Chennai
+2024-05-26,Biscuits,41,Chennai
+2024-05-26,Maggi,39,Kolkata
+2024-05-26,Sugar,47,Kolkata
+2024-05-26,Ghee,45,Kolkata
+2024-05-26,Dry Fruits,28,Kolkata
+2024-05-26,Rice,41,Kolkata
+2024-05-26,Tea,60,Kolkata
+2024-05-26,Soap,33,Kolkata
+2024-05-26,Biscuits,45,Kolkata
+2024-05-27,Maggi,41,Delhi
+2024-05-27,Sugar,30,Delhi
+2024-05-27,Ghee,42,Delhi
+2024-05-27,Dry Fruits,20,Delhi
+2024-05-27,Rice,33,Delhi
+2024-05-27,Tea,24,Delhi
+2024-05-27,Soap,40,Delhi
+2024-05-27,Biscuits,45,Delhi
+2024-05-27,Maggi,33,Chennai
+2024-05-27,Sugar,23,Chennai
+2024-05-27,Ghee,41,Chennai
+2024-05-27,Dry Fruits,42,Chennai
+2024-05-27,Rice,44,Chennai
+2024-05-27,Tea,20,Chennai
+2024-05-27,Soap,41,Chennai
+2024-05-27,Biscuits,42,Chennai
+2024-05-27,Maggi,38,Kolkata
+2024-05-27,Sugar,27,Kolkata
+2024-05-27,Ghee,34,Kolkata
+2024-05-27,Dry Fruits,40,Kolkata
+2024-05-27,Rice,34,Kolkata
+2024-05-27,Tea,28,Kolkata
+2024-05-27,Soap,40,Kolkata
+2024-05-27,Biscuits,28,Kolkata
+2024-05-28,Maggi,29,Delhi
+2024-05-28,Sugar,39,Delhi
+2024-05-28,Ghee,44,Delhi
+2024-05-28,Dry Fruits,40,Delhi
+2024-05-28,Rice,45,Delhi
+2024-05-28,Tea,28,Delhi
+2024-05-28,Soap,22,Delhi
+2024-05-28,Biscuits,39,Delhi
+2024-05-28,Maggi,44,Chennai
+2024-05-28,Sugar,45,Chennai
+2024-05-28,Ghee,30,Chennai
+2024-05-28,Dry Fruits,25,Chennai
+2024-05-28,Rice,21,Chennai
+2024-05-28,Tea,26,Chennai
+2024-05-28,Soap,37,Chennai
+2024-05-28,Biscuits,46,Chennai
+2024-05-28,Maggi,21,Kolkata
+2024-05-28,Sugar,46,Kolkata
+2024-05-28,Ghee,36,Kolkata
+2024-05-28,Dry Fruits,30,Kolkata
+2024-05-28,Rice,46,Kolkata
+2024-05-28,Tea,31,Kolkata
+2024-05-28,Soap,46,Kolkata
+2024-05-28,Biscuits,38,Kolkata
+2024-05-29,Maggi,41,Delhi
+2024-05-29,Sugar,43,Delhi
+2024-05-29,Ghee,44,Delhi
+2024-05-29,Dry Fruits,26,Delhi
+2024-05-29,Rice,39,Delhi
+2024-05-29,Tea,25,Delhi
+2024-05-29,Soap,40,Delhi
+2024-05-29,Biscuits,43,Delhi
+2024-05-29,Maggi,20,Chennai
+2024-05-29,Sugar,36,Chennai
+2024-05-29,Ghee,48,Chennai
+2024-05-29,Dry Fruits,30,Chennai
+2024-05-29,Rice,41,Chennai
+2024-05-29,Tea,45,Chennai
+2024-05-29,Soap,47,Chennai
+2024-05-29,Biscuits,37,Chennai
+2024-05-29,Maggi,40,Kolkata
+2024-05-29,Sugar,36,Kolkata
+2024-05-29,Ghee,26,Kolkata
+2024-05-29,Dry Fruits,36,Kolkata
+2024-05-29,Rice,39,Kolkata
+2024-05-29,Tea,28,Kolkata
+2024-05-29,Soap,36,Kolkata
+2024-05-29,Biscuits,39,Kolkata
+2024-05-30,Maggi,41,Delhi
+2024-05-30,Sugar,41,Delhi
+2024-05-30,Ghee,47,Delhi
+2024-05-30,Dry Fruits,48,Delhi
+2024-05-30,Rice,27,Delhi
+2024-05-30,Tea,36,Delhi
+2024-05-30,Soap,26,Delhi
+2024-05-30,Biscuits,20,Delhi
+2024-05-30,Maggi,32,Chennai
+2024-05-30,Sugar,49,Chennai
+2024-05-30,Ghee,42,Chennai
+2024-05-30,Dry Fruits,38,Chennai
+2024-05-30,Rice,46,Chennai
+2024-05-30,Tea,43,Chennai
+2024-05-30,Soap,38,Chennai
+2024-05-30,Biscuits,49,Chennai
+2024-05-30,Maggi,49,Kolkata
+2024-05-30,Sugar,48,Kolkata
+2024-05-30,Ghee,36,Kolkata
+2024-05-30,Dry Fruits,32,Kolkata
+2024-05-30,Rice,48,Kolkata
+2024-05-30,Tea,49,Kolkata
+2024-05-30,Soap,35,Kolkata
+2024-05-30,Biscuits,27,Kolkata
+2024-05-31,Maggi,38,Delhi
+2024-05-31,Sugar,37,Delhi
+2024-05-31,Ghee,20,Delhi
+2024-05-31,Dry Fruits,33,Delhi
+2024-05-31,Rice,38,Delhi
+2024-05-31,Tea,34,Delhi
+2024-05-31,Soap,37,Delhi
+2024-05-31,Biscuits,21,Delhi
+2024-05-31,Maggi,41,Chennai
+2024-05-31,Sugar,47,Chennai
+2024-05-31,Ghee,36,Chennai
+2024-05-31,Dry Fruits,37,Chennai
+2024-05-31,Rice,49,Chennai
+2024-05-31,Tea,25,Chennai
+2024-05-31,Soap,38,Chennai
+2024-05-31,Biscuits,23,Chennai
+2024-05-31,Maggi,20,Kolkata
+2024-05-31,Sugar,27,Kolkata
+2024-05-31,Ghee,48,Kolkata
+2024-05-31,Dry Fruits,42,Kolkata
+2024-05-31,Rice,26,Kolkata
+2024-05-31,Tea,22,Kolkata
+2024-05-31,Soap,29,Kolkata
+2024-05-31,Biscuits,29,Kolkata
+2024-06-01,Maggi,61,Delhi
+2024-06-01,Sugar,21,Delhi
+2024-06-01,Ghee,47,Delhi
+2024-06-01,Dry Fruits,20,Delhi
+2024-06-01,Rice,42,Delhi
+2024-06-01,Tea,63,Delhi
+2024-06-01,Soap,37,Delhi
+2024-06-01,Biscuits,48,Delhi
+2024-06-01,Maggi,37,Chennai
+2024-06-01,Sugar,44,Chennai
+2024-06-01,Ghee,42,Chennai
+2024-06-01,Dry Fruits,22,Chennai
+2024-06-01,Rice,43,Chennai
+2024-06-01,Tea,62,Chennai
+2024-06-01,Soap,48,Chennai
+2024-06-01,Biscuits,42,Chennai
+2024-06-01,Maggi,68,Kolkata
+2024-06-01,Sugar,24,Kolkata
+2024-06-01,Ghee,22,Kolkata
+2024-06-01,Dry Fruits,38,Kolkata
+2024-06-01,Rice,20,Kolkata
+2024-06-01,Tea,71,Kolkata
+2024-06-01,Soap,27,Kolkata
+2024-06-01,Biscuits,33,Kolkata
+2024-06-02,Maggi,66,Delhi
+2024-06-02,Sugar,43,Delhi
+2024-06-02,Ghee,33,Delhi
+2024-06-02,Dry Fruits,30,Delhi
+2024-06-02,Rice,35,Delhi
+2024-06-02,Tea,36,Delhi
+2024-06-02,Soap,24,Delhi
+2024-06-02,Biscuits,55,Delhi
+2024-06-02,Maggi,57,Chennai
+2024-06-02,Sugar,42,Chennai
+2024-06-02,Ghee,35,Chennai
+2024-06-02,Dry Fruits,37,Chennai
+2024-06-02,Rice,26,Chennai
+2024-06-02,Tea,45,Chennai
+2024-06-02,Soap,20,Chennai
+2024-06-02,Biscuits,56,Chennai
+2024-06-02,Maggi,60,Kolkata
+2024-06-02,Sugar,38,Kolkata
+2024-06-02,Ghee,23,Kolkata
+2024-06-02,Dry Fruits,48,Kolkata
+2024-06-02,Rice,47,Kolkata
+2024-06-02,Tea,48,Kolkata
+2024-06-02,Soap,20,Kolkata
+2024-06-02,Biscuits,48,Kolkata
+2024-06-03,Maggi,39,Delhi
+2024-06-03,Sugar,30,Delhi
+2024-06-03,Ghee,29,Delhi
+2024-06-03,Dry Fruits,21,Delhi
+2024-06-03,Rice,22,Delhi
+2024-06-03,Tea,42,Delhi
+2024-06-03,Soap,42,Delhi
+2024-06-03,Biscuits,31,Delhi
+2024-06-03,Maggi,39,Chennai
+2024-06-03,Sugar,24,Chennai
+2024-06-03,Ghee,24,Chennai
+2024-06-03,Dry Fruits,25,Chennai
+2024-06-03,Rice,49,Chennai
+2024-06-03,Tea,28,Chennai
+2024-06-03,Soap,21,Chennai
+2024-06-03,Biscuits,40,Chennai
+2024-06-03,Maggi,31,Kolkata
+2024-06-03,Sugar,22,Kolkata
+2024-06-03,Ghee,39,Kolkata
+2024-06-03,Dry Fruits,45,Kolkata
+2024-06-03,Rice,41,Kolkata
+2024-06-03,Tea,31,Kolkata
+2024-06-03,Soap,43,Kolkata
+2024-06-03,Biscuits,36,Kolkata
+2024-06-04,Maggi,29,Delhi
+2024-06-04,Sugar,49,Delhi
+2024-06-04,Ghee,43,Delhi
+2024-06-04,Dry Fruits,46,Delhi
+2024-06-04,Rice,33,Delhi
+2024-06-04,Tea,42,Delhi
+2024-06-04,Soap,36,Delhi
+2024-06-04,Biscuits,37,Delhi
+2024-06-04,Maggi,38,Chennai
+2024-06-04,Sugar,36,Chennai
+2024-06-04,Ghee,33,Chennai
+2024-06-04,Dry Fruits,28,Chennai
+2024-06-04,Rice,27,Chennai
+2024-06-04,Tea,21,Chennai
+2024-06-04,Soap,32,Chennai
+2024-06-04,Biscuits,44,Chennai
+2024-06-04,Maggi,26,Kolkata
+2024-06-04,Sugar,28,Kolkata
+2024-06-04,Ghee,41,Kolkata
+2024-06-04,Dry Fruits,41,Kolkata
+2024-06-04,Rice,30,Kolkata
+2024-06-04,Tea,33,Kolkata
+2024-06-04,Soap,23,Kolkata
+2024-06-04,Biscuits,45,Kolkata
+2024-06-05,Maggi,45,Delhi
+2024-06-05,Sugar,48,Delhi
+2024-06-05,Ghee,32,Delhi
+2024-06-05,Dry Fruits,21,Delhi
+2024-06-05,Rice,42,Delhi
+2024-06-05,Tea,24,Delhi
+2024-06-05,Soap,30,Delhi
+2024-06-05,Biscuits,25,Delhi
+2024-06-05,Maggi,37,Chennai
+2024-06-05,Sugar,40,Chennai
+2024-06-05,Ghee,29,Chennai
+2024-06-05,Dry Fruits,23,Chennai
+2024-06-05,Rice,28,Chennai
+2024-06-05,Tea,25,Chennai
+2024-06-05,Soap,21,Chennai
+2024-06-05,Biscuits,36,Chennai
+2024-06-05,Maggi,24,Kolkata
+2024-06-05,Sugar,44,Kolkata
+2024-06-05,Ghee,25,Kolkata
+2024-06-05,Dry Fruits,45,Kolkata
+2024-06-05,Rice,31,Kolkata
+2024-06-05,Tea,42,Kolkata
+2024-06-05,Soap,40,Kolkata
+2024-06-05,Biscuits,29,Kolkata
+2024-06-06,Maggi,41,Delhi
+2024-06-06,Sugar,40,Delhi
+2024-06-06,Ghee,46,Delhi
+2024-06-06,Dry Fruits,44,Delhi
+2024-06-06,Rice,25,Delhi
+2024-06-06,Tea,46,Delhi
+2024-06-06,Soap,27,Delhi
+2024-06-06,Biscuits,21,Delhi
+2024-06-06,Maggi,31,Chennai
+2024-06-06,Sugar,32,Chennai
+2024-06-06,Ghee,44,Chennai
+2024-06-06,Dry Fruits,40,Chennai
+2024-06-06,Rice,26,Chennai
+2024-06-06,Tea,29,Chennai
+2024-06-06,Soap,32,Chennai
+2024-06-06,Biscuits,36,Chennai
+2024-06-06,Maggi,45,Kolkata
+2024-06-06,Sugar,40,Kolkata
+2024-06-06,Ghee,47,Kolkata
+2024-06-06,Dry Fruits,49,Kolkata
+2024-06-06,Rice,45,Kolkata
+2024-06-06,Tea,33,Kolkata
+2024-06-06,Soap,21,Kolkata
+2024-06-06,Biscuits,47,Kolkata
+2024-06-07,Maggi,41,Delhi
+2024-06-07,Sugar,30,Delhi
+2024-06-07,Ghee,20,Delhi
+2024-06-07,Dry Fruits,38,Delhi
+2024-06-07,Rice,40,Delhi
+2024-06-07,Tea,23,Delhi
+2024-06-07,Soap,38,Delhi
+2024-06-07,Biscuits,45,Delhi
+2024-06-07,Maggi,48,Chennai
+2024-06-07,Sugar,40,Chennai
+2024-06-07,Ghee,30,Chennai
+2024-06-07,Dry Fruits,27,Chennai
+2024-06-07,Rice,30,Chennai
+2024-06-07,Tea,23,Chennai
+2024-06-07,Soap,36,Chennai
+2024-06-07,Biscuits,46,Chennai
+2024-06-07,Maggi,26,Kolkata
+2024-06-07,Sugar,27,Kolkata
+2024-06-07,Ghee,22,Kolkata
+2024-06-07,Dry Fruits,41,Kolkata
+2024-06-07,Rice,21,Kolkata
+2024-06-07,Tea,42,Kolkata
+2024-06-07,Soap,34,Kolkata
+2024-06-07,Biscuits,43,Kolkata
+2024-06-08,Maggi,56,Delhi
+2024-06-08,Sugar,24,Delhi
+2024-06-08,Ghee,43,Delhi
+2024-06-08,Dry Fruits,20,Delhi
+2024-06-08,Rice,45,Delhi
+2024-06-08,Tea,47,Delhi
+2024-06-08,Soap,39,Delhi
+2024-06-08,Biscuits,50,Delhi
+2024-06-08,Maggi,59,Chennai
+2024-06-08,Sugar,36,Chennai
+2024-06-08,Ghee,49,Chennai
+2024-06-08,Dry Fruits,46,Chennai
+2024-06-08,Rice,32,Chennai
+2024-06-08,Tea,41,Chennai
+2024-06-08,Soap,28,Chennai
+2024-06-08,Biscuits,56,Chennai
+2024-06-08,Maggi,58,Kolkata
+2024-06-08,Sugar,28,Kolkata
+2024-06-08,Ghee,27,Kolkata
+2024-06-08,Dry Fruits,36,Kolkata
+2024-06-08,Rice,20,Kolkata
+2024-06-08,Tea,66,Kolkata
+2024-06-08,Soap,30,Kolkata
+2024-06-08,Biscuits,46,Kolkata
+2024-06-09,Maggi,60,Delhi
+2024-06-09,Sugar,22,Delhi
+2024-06-09,Ghee,22,Delhi
+2024-06-09,Dry Fruits,37,Delhi
+2024-06-09,Rice,24,Delhi
+2024-06-09,Tea,52,Delhi
+2024-06-09,Soap,38,Delhi
+2024-06-09,Biscuits,64,Delhi
+2024-06-09,Maggi,42,Chennai
+2024-06-09,Sugar,38,Chennai
+2024-06-09,Ghee,24,Chennai
+2024-06-09,Dry Fruits,31,Chennai
+2024-06-09,Rice,46,Chennai
+2024-06-09,Tea,56,Chennai
+2024-06-09,Soap,48,Chennai
+2024-06-09,Biscuits,55,Chennai
+2024-06-09,Maggi,60,Kolkata
+2024-06-09,Sugar,36,Kolkata
+2024-06-09,Ghee,34,Kolkata
+2024-06-09,Dry Fruits,31,Kolkata
+2024-06-09,Rice,49,Kolkata
+2024-06-09,Tea,52,Kolkata
+2024-06-09,Soap,38,Kolkata
+2024-06-09,Biscuits,51,Kolkata
+2024-06-10,Maggi,40,Delhi
+2024-06-10,Sugar,36,Delhi
+2024-06-10,Ghee,42,Delhi
+2024-06-10,Dry Fruits,24,Delhi
+2024-06-10,Rice,41,Delhi
+2024-06-10,Tea,35,Delhi
+2024-06-10,Soap,25,Delhi
+2024-06-10,Biscuits,27,Delhi
+2024-06-10,Maggi,44,Chennai
+2024-06-10,Sugar,37,Chennai
+2024-06-10,Ghee,44,Chennai
+2024-06-10,Dry Fruits,31,Chennai
+2024-06-10,Rice,34,Chennai
+2024-06-10,Tea,46,Chennai
+2024-06-10,Soap,45,Chennai
+2024-06-10,Biscuits,28,Chennai
+2024-06-10,Maggi,32,Kolkata
+2024-06-10,Sugar,45,Kolkata
+2024-06-10,Ghee,34,Kolkata
+2024-06-10,Dry Fruits,29,Kolkata
+2024-06-10,Rice,35,Kolkata
+2024-06-10,Tea,26,Kolkata
+2024-06-10,Soap,36,Kolkata
+2024-06-10,Biscuits,42,Kolkata
+2024-06-11,Maggi,45,Delhi
+2024-06-11,Sugar,40,Delhi
+2024-06-11,Ghee,41,Delhi
+2024-06-11,Dry Fruits,45,Delhi
+2024-06-11,Rice,26,Delhi
+2024-06-11,Tea,33,Delhi
+2024-06-11,Soap,34,Delhi
+2024-06-11,Biscuits,40,Delhi
+2024-06-11,Maggi,26,Chennai
+2024-06-11,Sugar,28,Chennai
+2024-06-11,Ghee,38,Chennai
+2024-06-11,Dry Fruits,35,Chennai
+2024-06-11,Rice,27,Chennai
+2024-06-11,Tea,37,Chennai
+2024-06-11,Soap,46,Chennai
+2024-06-11,Biscuits,42,Chennai
+2024-06-11,Maggi,48,Kolkata
+2024-06-11,Sugar,37,Kolkata
+2024-06-11,Ghee,49,Kolkata
+2024-06-11,Dry Fruits,39,Kolkata
+2024-06-11,Rice,26,Kolkata
+2024-06-11,Tea,22,Kolkata
+2024-06-11,Soap,37,Kolkata
+2024-06-11,Biscuits,46,Kolkata
+2024-06-12,Maggi,29,Delhi
+2024-06-12,Sugar,26,Delhi
+2024-06-12,Ghee,36,Delhi
+2024-06-12,Dry Fruits,33,Delhi
+2024-06-12,Rice,43,Delhi
+2024-06-12,Tea,22,Delhi
+2024-06-12,Soap,31,Delhi
+2024-06-12,Biscuits,47,Delhi
+2024-06-12,Maggi,32,Chennai
+2024-06-12,Sugar,21,Chennai
+2024-06-12,Ghee,22,Chennai
+2024-06-12,Dry Fruits,24,Chennai
+2024-06-12,Rice,30,Chennai
+2024-06-12,Tea,27,Chennai
+2024-06-12,Soap,45,Chennai
+2024-06-12,Biscuits,42,Chennai
+2024-06-12,Maggi,42,Kolkata
+2024-06-12,Sugar,31,Kolkata
+2024-06-12,Ghee,26,Kolkata
+2024-06-12,Dry Fruits,34,Kolkata
+2024-06-12,Rice,43,Kolkata
+2024-06-12,Tea,36,Kolkata
+2024-06-12,Soap,23,Kolkata
+2024-06-12,Biscuits,48,Kolkata
+2024-06-13,Maggi,41,Delhi
+2024-06-13,Sugar,44,Delhi
+2024-06-13,Ghee,32,Delhi
+2024-06-13,Dry Fruits,37,Delhi
+2024-06-13,Rice,20,Delhi
+2024-06-13,Tea,35,Delhi
+2024-06-13,Soap,32,Delhi
+2024-06-13,Biscuits,29,Delhi
+2024-06-13,Maggi,31,Chennai
+2024-06-13,Sugar,49,Chennai
+2024-06-13,Ghee,21,Chennai
+2024-06-13,Dry Fruits,42,Chennai
+2024-06-13,Rice,22,Chennai
+2024-06-13,Tea,29,Chennai
+2024-06-13,Soap,21,Chennai
+2024-06-13,Biscuits,49,Chennai
+2024-06-13,Maggi,46,Kolkata
+2024-06-13,Sugar,42,Kolkata
+2024-06-13,Ghee,32,Kolkata
+2024-06-13,Dry Fruits,32,Kolkata
+2024-06-13,Rice,37,Kolkata
+2024-06-13,Tea,22,Kolkata
+2024-06-13,Soap,46,Kolkata
+2024-06-13,Biscuits,26,Kolkata
+2024-06-14,Maggi,33,Delhi
+2024-06-14,Sugar,39,Delhi
+2024-06-14,Ghee,48,Delhi
+2024-06-14,Dry Fruits,49,Delhi
+2024-06-14,Rice,36,Delhi
+2024-06-14,Tea,48,Delhi
+2024-06-14,Soap,49,Delhi
+2024-06-14,Biscuits,40,Delhi
+2024-06-14,Maggi,31,Chennai
+2024-06-14,Sugar,44,Chennai
+2024-06-14,Ghee,35,Chennai
+2024-06-14,Dry Fruits,43,Chennai
+2024-06-14,Rice,31,Chennai
+2024-06-14,Tea,34,Chennai
+2024-06-14,Soap,44,Chennai
+2024-06-14,Biscuits,29,Chennai
+2024-06-14,Maggi,49,Kolkata
+2024-06-14,Sugar,44,Kolkata
+2024-06-14,Ghee,26,Kolkata
+2024-06-14,Dry Fruits,39,Kolkata
+2024-06-14,Rice,24,Kolkata
+2024-06-14,Tea,20,Kolkata
+2024-06-14,Soap,49,Kolkata
+2024-06-14,Biscuits,36,Kolkata
+2024-06-15,Maggi,44,Delhi
+2024-06-15,Sugar,33,Delhi
+2024-06-15,Ghee,43,Delhi
+2024-06-15,Dry Fruits,49,Delhi
+2024-06-15,Rice,37,Delhi
+2024-06-15,Tea,34,Delhi
+2024-06-15,Soap,49,Delhi
+2024-06-15,Biscuits,42,Delhi
+2024-06-15,Maggi,45,Chennai
+2024-06-15,Sugar,40,Chennai
+2024-06-15,Ghee,33,Chennai
+2024-06-15,Dry Fruits,34,Chennai
+2024-06-15,Rice,28,Chennai
+2024-06-15,Tea,44,Chennai
+2024-06-15,Soap,44,Chennai
+2024-06-15,Biscuits,56,Chennai
+2024-06-15,Maggi,51,Kolkata
+2024-06-15,Sugar,45,Kolkata
+2024-06-15,Ghee,24,Kolkata
+2024-06-15,Dry Fruits,48,Kolkata
+2024-06-15,Rice,24,Kolkata
+2024-06-15,Tea,51,Kolkata
+2024-06-15,Soap,25,Kolkata
+2024-06-15,Biscuits,43,Kolkata
+2024-06-16,Maggi,50,Delhi
+2024-06-16,Sugar,30,Delhi
+2024-06-16,Ghee,49,Delhi
+2024-06-16,Dry Fruits,32,Delhi
+2024-06-16,Rice,21,Delhi
+2024-06-16,Tea,60,Delhi
+2024-06-16,Soap,39,Delhi
+2024-06-16,Biscuits,43,Delhi
+2024-06-16,Maggi,40,Chennai
+2024-06-16,Sugar,48,Chennai
+2024-06-16,Ghee,41,Chennai
+2024-06-16,Dry Fruits,40,Chennai
+2024-06-16,Rice,38,Chennai
+2024-06-16,Tea,55,Chennai
+2024-06-16,Soap,29,Chennai
+2024-06-16,Biscuits,41,Chennai
+2024-06-16,Maggi,63,Kolkata
+2024-06-16,Sugar,28,Kolkata
+2024-06-16,Ghee,36,Kolkata
+2024-06-16,Dry Fruits,45,Kolkata
+2024-06-16,Rice,22,Kolkata
+2024-06-16,Tea,58,Kolkata
+2024-06-16,Soap,24,Kolkata
+2024-06-16,Biscuits,39,Kolkata
+2024-06-17,Maggi,34,Delhi
+2024-06-17,Sugar,42,Delhi
+2024-06-17,Ghee,36,Delhi
+2024-06-17,Dry Fruits,28,Delhi
+2024-06-17,Rice,22,Delhi
+2024-06-17,Tea,39,Delhi
+2024-06-17,Soap,45,Delhi
+2024-06-17,Biscuits,36,Delhi
+2024-06-17,Maggi,48,Chennai
+2024-06-17,Sugar,46,Chennai
+2024-06-17,Ghee,29,Chennai
+2024-06-17,Dry Fruits,22,Chennai
+2024-06-17,Rice,37,Chennai
+2024-06-17,Tea,37,Chennai
+2024-06-17,Soap,49,Chennai
+2024-06-17,Biscuits,36,Chennai
+2024-06-17,Maggi,43,Kolkata
+2024-06-17,Sugar,22,Kolkata
+2024-06-17,Ghee,22,Kolkata
+2024-06-17,Dry Fruits,25,Kolkata
+2024-06-17,Rice,32,Kolkata
+2024-06-17,Tea,43,Kolkata
+2024-06-17,Soap,48,Kolkata
+2024-06-17,Biscuits,34,Kolkata
+2024-06-18,Maggi,44,Delhi
+2024-06-18,Sugar,28,Delhi
+2024-06-18,Ghee,23,Delhi
+2024-06-18,Dry Fruits,33,Delhi
+2024-06-18,Rice,24,Delhi
+2024-06-18,Tea,21,Delhi
+2024-06-18,Soap,30,Delhi
+2024-06-18,Biscuits,28,Delhi
+2024-06-18,Maggi,43,Chennai
+2024-06-18,Sugar,22,Chennai
+2024-06-18,Ghee,46,Chennai
+2024-06-18,Dry Fruits,47,Chennai
+2024-06-18,Rice,48,Chennai
+2024-06-18,Tea,28,Chennai
+2024-06-18,Soap,22,Chennai
+2024-06-18,Biscuits,44,Chennai
+2024-06-18,Maggi,21,Kolkata
+2024-06-18,Sugar,31,Kolkata
+2024-06-18,Ghee,29,Kolkata
+2024-06-18,Dry Fruits,28,Kolkata
+2024-06-18,Rice,34,Kolkata
+2024-06-18,Tea,27,Kolkata
+2024-06-18,Soap,44,Kolkata
+2024-06-18,Biscuits,24,Kolkata
+2024-06-19,Maggi,30,Delhi
+2024-06-19,Sugar,46,Delhi
+2024-06-19,Ghee,21,Delhi
+2024-06-19,Dry Fruits,43,Delhi
+2024-06-19,Rice,47,Delhi
+2024-06-19,Tea,34,Delhi
+2024-06-19,Soap,25,Delhi
+2024-06-19,Biscuits,27,Delhi
+2024-06-19,Maggi,46,Chennai
+2024-06-19,Sugar,24,Chennai
+2024-06-19,Ghee,35,Chennai
+2024-06-19,Dry Fruits,45,Chennai
+2024-06-19,Rice,37,Chennai
+2024-06-19,Tea,25,Chennai
+2024-06-19,Soap,24,Chennai
+2024-06-19,Biscuits,47,Chennai
+2024-06-19,Maggi,35,Kolkata
+2024-06-19,Sugar,32,Kolkata
+2024-06-19,Ghee,47,Kolkata
+2024-06-19,Dry Fruits,24,Kolkata
+2024-06-19,Rice,32,Kolkata
+2024-06-19,Tea,36,Kolkata
+2024-06-19,Soap,37,Kolkata
+2024-06-19,Biscuits,27,Kolkata
+2024-06-20,Maggi,32,Delhi
+2024-06-20,Sugar,49,Delhi
+2024-06-20,Ghee,48,Delhi
+2024-06-20,Dry Fruits,38,Delhi
+2024-06-20,Rice,45,Delhi
+2024-06-20,Tea,22,Delhi
+2024-06-20,Soap,43,Delhi
+2024-06-20,Biscuits,27,Delhi
+2024-06-20,Maggi,21,Chennai
+2024-06-20,Sugar,27,Chennai
+2024-06-20,Ghee,46,Chennai
+2024-06-20,Dry Fruits,32,Chennai
+2024-06-20,Rice,32,Chennai
+2024-06-20,Tea,20,Chennai
+2024-06-20,Soap,25,Chennai
+2024-06-20,Biscuits,43,Chennai
+2024-06-20,Maggi,38,Kolkata
+2024-06-20,Sugar,35,Kolkata
+2024-06-20,Ghee,27,Kolkata
+2024-06-20,Dry Fruits,47,Kolkata
+2024-06-20,Rice,20,Kolkata
+2024-06-20,Tea,46,Kolkata
+2024-06-20,Soap,46,Kolkata
+2024-06-20,Biscuits,35,Kolkata
+2024-06-21,Maggi,28,Delhi
+2024-06-21,Sugar,32,Delhi
+2024-06-21,Ghee,30,Delhi
+2024-06-21,Dry Fruits,32,Delhi
+2024-06-21,Rice,44,Delhi
+2024-06-21,Tea,40,Delhi
+2024-06-21,Soap,29,Delhi
+2024-06-21,Biscuits,23,Delhi
+2024-06-21,Maggi,46,Chennai
+2024-06-21,Sugar,25,Chennai
+2024-06-21,Ghee,47,Chennai
+2024-06-21,Dry Fruits,26,Chennai
+2024-06-21,Rice,24,Chennai
+2024-06-21,Tea,30,Chennai
+2024-06-21,Soap,32,Chennai
+2024-06-21,Biscuits,45,Chennai
+2024-06-21,Maggi,44,Kolkata
+2024-06-21,Sugar,38,Kolkata
+2024-06-21,Ghee,42,Kolkata
+2024-06-21,Dry Fruits,29,Kolkata
+2024-06-21,Rice,29,Kolkata
+2024-06-21,Tea,30,Kolkata
+2024-06-21,Soap,40,Kolkata
+2024-06-21,Biscuits,49,Kolkata
+2024-06-22,Maggi,50,Delhi
+2024-06-22,Sugar,37,Delhi
+2024-06-22,Ghee,23,Delhi
+2024-06-22,Dry Fruits,21,Delhi
+2024-06-22,Rice,33,Delhi
+2024-06-22,Tea,54,Delhi
+2024-06-22,Soap,31,Delhi
+2024-06-22,Biscuits,37,Delhi
+2024-06-22,Maggi,55,Chennai
+2024-06-22,Sugar,46,Chennai
+2024-06-22,Ghee,36,Chennai
+2024-06-22,Dry Fruits,28,Chennai
+2024-06-22,Rice,36,Chennai
+2024-06-22,Tea,51,Chennai
+2024-06-22,Soap,21,Chennai
+2024-06-22,Biscuits,64,Chennai
+2024-06-22,Maggi,44,Kolkata
+2024-06-22,Sugar,35,Kolkata
+2024-06-22,Ghee,25,Kolkata
+2024-06-22,Dry Fruits,38,Kolkata
+2024-06-22,Rice,49,Kolkata
+2024-06-22,Tea,45,Kolkata
+2024-06-22,Soap,28,Kolkata
+2024-06-22,Biscuits,45,Kolkata
+2024-06-23,Maggi,68,Delhi
+2024-06-23,Sugar,34,Delhi
+2024-06-23,Ghee,49,Delhi
+2024-06-23,Dry Fruits,24,Delhi
+2024-06-23,Rice,48,Delhi
+2024-06-23,Tea,54,Delhi
+2024-06-23,Soap,39,Delhi
+2024-06-23,Biscuits,34,Delhi
+2024-06-23,Maggi,43,Chennai
+2024-06-23,Sugar,36,Chennai
+2024-06-23,Ghee,31,Chennai
+2024-06-23,Dry Fruits,41,Chennai
+2024-06-23,Rice,36,Chennai
+2024-06-23,Tea,44,Chennai
+2024-06-23,Soap,20,Chennai
+2024-06-23,Biscuits,60,Chennai
+2024-06-23,Maggi,63,Kolkata
+2024-06-23,Sugar,37,Kolkata
+2024-06-23,Ghee,37,Kolkata
+2024-06-23,Dry Fruits,33,Kolkata
+2024-06-23,Rice,34,Kolkata
+2024-06-23,Tea,69,Kolkata
+2024-06-23,Soap,23,Kolkata
+2024-06-23,Biscuits,58,Kolkata
+2024-06-24,Maggi,39,Delhi
+2024-06-24,Sugar,48,Delhi
+2024-06-24,Ghee,31,Delhi
+2024-06-24,Dry Fruits,26,Delhi
+2024-06-24,Rice,48,Delhi
+2024-06-24,Tea,30,Delhi
+2024-06-24,Soap,20,Delhi
+2024-06-24,Biscuits,25,Delhi
+2024-06-24,Maggi,34,Chennai
+2024-06-24,Sugar,34,Chennai
+2024-06-24,Ghee,38,Chennai
+2024-06-24,Dry Fruits,30,Chennai
+2024-06-24,Rice,45,Chennai
+2024-06-24,Tea,42,Chennai
+2024-06-24,Soap,45,Chennai
+2024-06-24,Biscuits,21,Chennai
+2024-06-24,Maggi,33,Kolkata
+2024-06-24,Sugar,21,Kolkata
+2024-06-24,Ghee,48,Kolkata
+2024-06-24,Dry Fruits,23,Kolkata
+2024-06-24,Rice,36,Kolkata
+2024-06-24,Tea,22,Kolkata
+2024-06-24,Soap,32,Kolkata
+2024-06-24,Biscuits,28,Kolkata
+2024-06-25,Maggi,26,Delhi
+2024-06-25,Sugar,34,Delhi
+2024-06-25,Ghee,42,Delhi
+2024-06-25,Dry Fruits,48,Delhi
+2024-06-25,Rice,48,Delhi
+2024-06-25,Tea,30,Delhi
+2024-06-25,Soap,39,Delhi
+2024-06-25,Biscuits,21,Delhi
+2024-06-25,Maggi,34,Chennai
+2024-06-25,Sugar,33,Chennai
+2024-06-25,Ghee,39,Chennai
+2024-06-25,Dry Fruits,41,Chennai
+2024-06-25,Rice,30,Chennai
+2024-06-25,Tea,46,Chennai
+2024-06-25,Soap,22,Chennai
+2024-06-25,Biscuits,36,Chennai
+2024-06-25,Maggi,49,Kolkata
+2024-06-25,Sugar,31,Kolkata
+2024-06-25,Ghee,43,Kolkata
+2024-06-25,Dry Fruits,47,Kolkata
+2024-06-25,Rice,48,Kolkata
+2024-06-25,Tea,40,Kolkata
+2024-06-25,Soap,34,Kolkata
+2024-06-25,Biscuits,35,Kolkata
+2024-06-26,Maggi,24,Delhi
+2024-06-26,Sugar,46,Delhi
+2024-06-26,Ghee,39,Delhi
+2024-06-26,Dry Fruits,25,Delhi
+2024-06-26,Rice,38,Delhi
+2024-06-26,Tea,44,Delhi
+2024-06-26,Soap,24,Delhi
+2024-06-26,Biscuits,22,Delhi
+2024-06-26,Maggi,46,Chennai
+2024-06-26,Sugar,20,Chennai
+2024-06-26,Ghee,45,Chennai
+2024-06-26,Dry Fruits,47,Chennai
+2024-06-26,Rice,25,Chennai
+2024-06-26,Tea,34,Chennai
+2024-06-26,Soap,21,Chennai
+2024-06-26,Biscuits,48,Chennai
+2024-06-26,Maggi,22,Kolkata
+2024-06-26,Sugar,36,Kolkata
+2024-06-26,Ghee,44,Kolkata
+2024-06-26,Dry Fruits,43,Kolkata
+2024-06-26,Rice,31,Kolkata
+2024-06-26,Tea,37,Kolkata
+2024-06-26,Soap,34,Kolkata
+2024-06-26,Biscuits,31,Kolkata
+2024-06-27,Maggi,35,Delhi
+2024-06-27,Sugar,46,Delhi
+2024-06-27,Ghee,27,Delhi
+2024-06-27,Dry Fruits,47,Delhi
+2024-06-27,Rice,33,Delhi
+2024-06-27,Tea,44,Delhi
+2024-06-27,Soap,36,Delhi
+2024-06-27,Biscuits,48,Delhi
+2024-06-27,Maggi,40,Chennai
+2024-06-27,Sugar,27,Chennai
+2024-06-27,Ghee,34,Chennai
+2024-06-27,Dry Fruits,46,Chennai
+2024-06-27,Rice,33,Chennai
+2024-06-27,Tea,37,Chennai
+2024-06-27,Soap,39,Chennai
+2024-06-27,Biscuits,26,Chennai
+2024-06-27,Maggi,22,Kolkata
+2024-06-27,Sugar,48,Kolkata
+2024-06-27,Ghee,31,Kolkata
+2024-06-27,Dry Fruits,40,Kolkata
+2024-06-27,Rice,43,Kolkata
+2024-06-27,Tea,47,Kolkata
+2024-06-27,Soap,45,Kolkata
+2024-06-27,Biscuits,22,Kolkata
+2024-06-28,Maggi,39,Delhi
+2024-06-28,Sugar,33,Delhi
+2024-06-28,Ghee,34,Delhi
+2024-06-28,Dry Fruits,44,Delhi
+2024-06-28,Rice,49,Delhi
+2024-06-28,Tea,33,Delhi
+2024-06-28,Soap,26,Delhi
+2024-06-28,Biscuits,36,Delhi
+2024-06-28,Maggi,49,Chennai
+2024-06-28,Sugar,31,Chennai
+2024-06-28,Ghee,39,Chennai
+2024-06-28,Dry Fruits,23,Chennai
+2024-06-28,Rice,28,Chennai
+2024-06-28,Tea,25,Chennai
+2024-06-28,Soap,35,Chennai
+2024-06-28,Biscuits,44,Chennai
+2024-06-28,Maggi,47,Kolkata
+2024-06-28,Sugar,41,Kolkata
+2024-06-28,Ghee,41,Kolkata
+2024-06-28,Dry Fruits,40,Kolkata
+2024-06-28,Rice,40,Kolkata
+2024-06-28,Tea,21,Kolkata
+2024-06-28,Soap,43,Kolkata
+2024-06-28,Biscuits,27,Kolkata
+2024-06-29,Maggi,52,Delhi
+2024-06-29,Sugar,36,Delhi
+2024-06-29,Ghee,27,Delhi
+2024-06-29,Dry Fruits,40,Delhi
+2024-06-29,Rice,37,Delhi
+2024-06-29,Tea,60,Delhi
+2024-06-29,Soap,33,Delhi
+2024-06-29,Biscuits,58,Delhi
+2024-06-29,Maggi,45,Chennai
+2024-06-29,Sugar,32,Chennai
+2024-06-29,Ghee,44,Chennai
+2024-06-29,Dry Fruits,20,Chennai
+2024-06-29,Rice,47,Chennai
+2024-06-29,Tea,43,Chennai
+2024-06-29,Soap,27,Chennai
+2024-06-29,Biscuits,45,Chennai
+2024-06-29,Maggi,55,Kolkata
+2024-06-29,Sugar,28,Kolkata
+2024-06-29,Ghee,36,Kolkata
+2024-06-29,Dry Fruits,31,Kolkata
+2024-06-29,Rice,44,Kolkata
+2024-06-29,Tea,57,Kolkata
+2024-06-29,Soap,35,Kolkata
+2024-06-29,Biscuits,56,Kolkata
+2024-06-30,Maggi,60,Delhi
+2024-06-30,Sugar,20,Delhi
+2024-06-30,Ghee,29,Delhi
+2024-06-30,Dry Fruits,27,Delhi
+2024-06-30,Rice,37,Delhi
+2024-06-30,Tea,57,Delhi
+2024-06-30,Soap,21,Delhi
+2024-06-30,Biscuits,30,Delhi
+2024-06-30,Maggi,50,Chennai
+2024-06-30,Sugar,49,Chennai
+2024-06-30,Ghee,20,Chennai
+2024-06-30,Dry Fruits,32,Chennai
+2024-06-30,Rice,39,Chennai
+2024-06-30,Tea,60,Chennai
+2024-06-30,Soap,26,Chennai
+2024-06-30,Biscuits,36,Chennai
+2024-06-30,Maggi,45,Kolkata
+2024-06-30,Sugar,33,Kolkata
+2024-06-30,Ghee,45,Kolkata
+2024-06-30,Dry Fruits,37,Kolkata
+2024-06-30,Rice,34,Kolkata
+2024-06-30,Tea,40,Kolkata
+2024-06-30,Soap,42,Kolkata
+2024-06-30,Biscuits,41,Kolkata
